@@ -1,0 +1,11 @@
+name = "Default"
+
+google_fonts = "Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono"
+
+heading_font = "Montserrat"
+body_font = "Roboto"
+nav_font = "Roboto"
+mono_font = "Roboto Mono"
+
+font_size = "12"
+font_size_small = "10"

@@ -47,3 +47,6 @@ features = ["page builder", "widgets", "themes", "search", "research publication
   name = ""
   homepage = ""
   repo = ""
+
+font = "Default"
+font_size = "12"
