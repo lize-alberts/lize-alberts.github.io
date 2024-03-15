@@ -118,7 +118,7 @@ social:
     link: www.linkedin.com/in/lize-alberts-5a2097159
   - icon: cv
     icon_pack: ai
-    link: static/uploads/resume.pdf
+    link: static/resume.pdf
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
