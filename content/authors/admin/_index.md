@@ -9,7 +9,7 @@ name_pronunciation: rhymeswithgeezer
 first_name: Lize
 last_name: Alberts
 
-# Status emoji
+# Status emoji woohoo
 # status:
 #   icon: ☕️
 
