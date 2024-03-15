@@ -11,7 +11,7 @@ last_name: Alberts
 
 # Status emoji woohoo
 # status:
-#   icon: ☕️
+#   icon: ☕️ bla
 
 # Is this the primary user of the site?
 superuser: true
