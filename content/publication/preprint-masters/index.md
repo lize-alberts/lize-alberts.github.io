@@ -37,7 +37,7 @@ tags:
 - Philosophy of Mind
 - Cognitive Psychology
 
-featured: true
+featured: false
 
 links:
 - name: DOI
