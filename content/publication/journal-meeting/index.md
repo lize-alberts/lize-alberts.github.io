@@ -31,7 +31,7 @@ tags:
 - Symbolic AI
 - Computational Linguistics
 - International auxiliary language
-featured: true
+featured: false
 
 # links:
 # - name: ""

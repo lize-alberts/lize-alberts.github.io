@@ -48,7 +48,7 @@ tags:
 - Self-Determination Theory
 - The Ethics of Care
 
-featured: true
+featured: false 
 
 links:
 - name: DOI
