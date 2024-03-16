@@ -32,9 +32,9 @@ bio: Fourth-year DPhil candidate in Computer Science at the University of Oxford
 # Interests to show in About widget
 interests:
   - Human-Centred Artificial Intelligence
-  - Conversational User Interface Evaluation
+  - Large Language Model Ethics and Evaluation
   - Cognitive and Computational Linguistics
-  - The Ethics of Interaction and Behavioural Design
+  - The Ethics of Interaction/Behavioural Design
   - Wellbeing-Supportive Technologies
 
 # Education to show in About widget
