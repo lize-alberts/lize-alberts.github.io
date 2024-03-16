@@ -42,7 +42,7 @@ education:
   courses:
     - course: D.Phil. in Computer Science
       institution: University of Oxford
-      year: 2024
+      # year: 2024
     - course: M.A. by Thesis in Philosophy (Cognitive & Computational Linguistics)
       institution: Stellenbosch University
       year: 2020
