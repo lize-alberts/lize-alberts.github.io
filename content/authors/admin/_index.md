@@ -3,7 +3,7 @@
 
 title: Lize Alberts
 # Name pronunciation (optional)
-name_pronunciation: rhymeswithgeezer
+# name_pronunciation: rhymeswithgeezer
 
 # Full name (for SEO)
 first_name: Lize
@@ -133,4 +133,6 @@ https://doi.org/10.48550/arXiv.2401.09082">the evaluation and alignment of LLM a
 
 Interdisciplinary expertise in human-computer interaction; (computational) linguistics; philosophy; user-centred design and responsible innovation methodology; cognitive science; applied ethics; and social anthropology. 
 {style="text-align: justify;"}
+
+My name rhymes with geezer.
 
