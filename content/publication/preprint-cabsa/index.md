@@ -1,6 +1,6 @@
 ---
 
-title: "Computers as Bad Social Actors: Dark Patterns and Anti-Patterns in Interfaces that Act Socially"
+title: "Computers as Bad Social Actors: Dark and Anti-Patterns in Interfaces that Act Socially"
 authors: 
 - Alberts, L.
 - Lyngs, U.

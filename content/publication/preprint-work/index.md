@@ -1,6 +1,6 @@
 ---
 
-title: "Designing to Support Autonomy and Reduce Psychological Reactance in Digital Self-Control Tool"
+title: "Designing to Support Autonomy and Reduce Psychological Reactance in Digital Self-Control Tools"
 authors: 
 - Alberts, L.
 - Lyngs, U.
