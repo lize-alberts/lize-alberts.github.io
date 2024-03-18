@@ -16,8 +16,8 @@ publishDate: "2020-12-15"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Master's thesis, Stellenbosch: Stellenbosch University"
-publication_short: "Master's thesis, Stellenbosch: Stellenbosch University"
+publication: "Master's thesis, Stellenbosch: Stellenbosch University.	arXiv:2206.14672"
+publication_short: "Master's thesis, Stellenbosch: Stellenbosch University. arXiv:2206.14672"
 
 
 abstract: Recent hype surrounding the increasing sophistication of language processing models has renewed optimism regarding machines achieving a human-like command of natural language. Research in the area of natural language understanding (NLU) in artificial intelligence claims to have been making great strides in this area, however, the lack of conceptual clarity/consistency in how 'understanding' is used in this and other disciplines makes it difficult to discern how close we actually are. In this interdisciplinary research thesis, I integrate insights from cognitive science/psychology, philosophy of mind, and cognitive linguistics, and evaluate it against a critical review of current approaches in NLU to explore the basic requirements--and remaining challenges--for developing artificially intelligent systems with human-like capacities for language use and comprehension.

@@ -17,8 +17,8 @@ publishDate: "2024-01-17"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Under review at *Minds and Machines*"
-publication_short: "Under review at *Minds and Machines*"
+publication: "Under review at *Minds and Machines*. arXiv:2401.09082"
+publication_short: "Under review at *Minds and Machines*.	arXiv:2401.09082"
 
 # Publication name and optional abbreviated publication name.
 # publication: "Computers as Bad Social Actors: Dark Patterns and Anti-Patterns in Interfaces that Act Socially"
