@@ -28,8 +28,8 @@ publishDate: "2024-01-17"
 publication_types: ["article-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "To appear in *Proceedings of the ACM CHI Conference on Human Factors in Computing Systems. Honolulu, Hawai'i, USA. 11-16 May 2024.*"
-publication_short: "To appear in *Proceedings of the ACM CHI Conference on Human Factors in Computing Systems. Honolulu, Hawai'i, USA. 11-16 May 2024.*"
+publication: "To appear in *Proceedings of the ACM CHI Conference on Human Factors in Computing Systems. Honolulu, Hawai'i, USA. 11-16 May 2024*"
+publication_short: "To appear in *Proceedings of the ACM CHI Conference on Human Factors in Computing Systems. Honolulu, Hawai'i, USA. 11-16 May 2024*"
 
 abstract: With the growing popularity of  dialogue agents based on large language models (LLMs), urgent attention has been drawn to finding ways to ensure their behaviour is ethical and appropriate. These are largely interpreted in terms of the ‘HHH’ criteria for making outputs more helpful and honest, and avoiding harmful (biased, toxic, or inaccurate) statements. Whilst this semantic focus is useful from the perspective of viewing LLM agents as mere mediums for information, it fails to account for pragmatic factors that can make the same utterance seem more or less offensive or tactless in different social situations. We propose an approach to ethics that is more centred on relational and situational factors, exploring what it means for a system, as a social actor, to treat an individual respectfully in a (series of) interaction(s). Our work anticipates a set of largely unexplored risks at the level of situated interaction, and  offers practical suggestions to help LLM technologies behave as good social actors and treat people respectfully.
 
