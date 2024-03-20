@@ -1,7 +1,7 @@
 ---
-title: ETHICOM AI & Ethics seminar - Computers as Bad Social Actors
+title: Princeton ETHICOM AI & Ethics seminar - Computers as Bad Social Actors
 
-event: ETHICOM AI & Ethics seminar
+event: Princeton ETHICOM AI & Ethics seminar
 event_url: https://roseguingrich.com/computers-as-bad-social-actors/
 
 location: Princeton University (Hybrid), NJ, USA

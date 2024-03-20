@@ -1,7 +1,7 @@
 ---
-title: Institute for Ethics in AI gathering with Accenture - Respect as a value for Human-Computer Interaction
+title: Oxford Institute for Ethics in AI gathering with Accenture - Respect as a value for Human-Computer Interaction
 
-event: Institute for Ethics in AI gathering with Accenture
+event: Oxford Institute for Ethics in AI gathering with Accenture
 # event_url: https://roseguingrich.com/computers-as-bad-social-actors/
 
 location: Faculty of Philosophy, University of Oxford
