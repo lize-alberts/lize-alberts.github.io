@@ -31,6 +31,7 @@ bio: Fourth-year DPhil candidate in Computer Science at the University of Oxford
 
 # Interests to show in About widget
 interests:
+  - Philosophy of Language and Cognition
   - Human-Centred Artificial Intelligence
   - Large Language Model Ethics and Evaluation
   - Cognitive and Computational Linguistics
