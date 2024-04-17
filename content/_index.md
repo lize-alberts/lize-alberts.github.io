@@ -83,7 +83,7 @@ sections:
           date_start: '2023-07-15'
           date_end: '2023-10-15'
           description: |2-
-              I worked for three months as a student researcher in the Cerebra team at Google. I led a project critiquing the `helpful, honest, and harmless' (HHH) alignment framework for LLMs. I highlighted some unexplored potential risks and developed a novel ethics of social interaction for language agents centred on the concept of respect.
+              I worked for three months as a student researcher in the Cerebra team at Google. I led a project critically evaluating current alignment approaches and frameworks for Large Language Models (LLMs), and proposed a novel ethical framework centred on duties of respectful treatment in interaction.
         - title: Leader of Masterclass in Computer Science
           company: Royal Institution
           company_url: 'https://www.rigb.org/learning/ri-masterclasses'
