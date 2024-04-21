@@ -2,9 +2,9 @@
 
 title: "Designing to Support Autonomy and Reduce Psychological Reactance in Digital Self-Control Tools"
 authors: 
-- Lukoff, K.
-- Lyngs, U.
-- Alberts, L.
+- Kai Lukoff
+- Urlik Lyngs
+- admin
 date: "2022"
 # doi: "https://doi.org/10.48550/arXiv.2302.04720"
 

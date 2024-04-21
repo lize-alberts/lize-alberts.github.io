@@ -2,9 +2,9 @@
 
 title: "Designing for Sustained Motivation: A Review of Self-Determination Theory in Behaviour Change Technologies"
 authors: 
-- Alberts, L.
-- Lyngs, U.
-- Lukoff, K.
+- admin
+- Ulrik Lyngs
+- Kai Lukoff
 date: "2024"
 # doi: "https://doi.org/10.48550/arXiv.2302.04720"
 

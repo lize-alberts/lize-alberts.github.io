@@ -2,7 +2,7 @@
 
 title: "Not Cheating on the Turing Test: Towards Grounded Language Learning in Artificial Intelligence"
 authors: 
-- Lize Alberts
+- admin
 
 date: "2020"
 # doi: "https://doi.org/10.48550/arXiv.2302.04720"

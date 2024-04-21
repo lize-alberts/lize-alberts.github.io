@@ -2,9 +2,9 @@
 
 title: "What Makes for a 'Good' Social Actor? Using Respect as a Lens to Evaluate Interactions with Language Agents"
 authors: 
-- Alberts, L
-- Keeling, G.
-- McCroskery, A.
+- admin
+- Geoff Keeling
+- Amanda McCroskery
 date: "2024"
 # doi: "https://doi.org/10.48550/arXiv.2302.04720"
 

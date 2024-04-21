@@ -17,7 +17,7 @@ last_name: Alberts
 superuser: true
 
 # Role/position/tagline
-role: Doctoral Candidate and Research Fellow
+role: Doctoral Candidate, Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -27,14 +27,14 @@ organizations:
     url: https://www0.sun.ac.za/philosophy/centre-for-applied-ethics/unit-for-the-ethics-of-technology/unit-for-the-ethics-of-technology-staff-2/ 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Fourth-year DPhil candidate in Computer Science at the University of Oxford and research fellow at Stellenbosch University's Department of Philosophy.
+bio: DPhil candidate in Computer Science at the University of Oxford and Research Fellow at Stellenbosch University's Unit for the Ethics of Technology.
 
 # Interests to show in About widget
 interests:
+  - Human-Centred AI
+  - Foundation Model Ethics and Evaluation
   - Philosophy of Language and Cognition
-  - Human-Centred Artificial Intelligence
-  - Large Language Model Ethics and Evaluation
-  - Cognitive and Computational Linguistics
+  - Cognitive/Computational Linguistics
   - The Ethics of Interaction/Behavioural Design
   - Wellbeing-Supportive Technologies
 
@@ -128,11 +128,11 @@ social:
 highlight_name: true
 ---
 
-Fourth-year <a href="https://www.cs.ox.ac.uk/people/lize.alberts/">DPhil Candidate in Computer Science</a> at the University of Oxford, and <a href="https://www0.sun.ac.za/philosophy/centre-for-applied-ethics/unit-for-the-ethics-of-technology/unit-for-the-ethics-of-technology-staff-2/">Research Fellow at the Unit for the Ethics of Technology</a> at Stellenbosch University. Former Google Student Researcher leading a project on <a href="
-https://doi.org/10.48550/arXiv.2401.09082">the evaluation and alignment of LLM agents</a>.
+Fourth-year DPhil Candidate in Computer Science at the <a href="https://www.cs.ox.ac.uk/people/lize.alberts/">University of Oxford</a>. Former Student Researcher at <a href="
+https://doi.org/10.48550/arXiv.2401.09082">Google</a> leading a project on the evaluation of LLM agents.<a href="https://www0.sun.ac.za/philosophy/centre-for-applied-ethics/unit-for-the-ethics-of-technology/unit-for-the-ethics-of-technology-staff-2/"> Research Fellow</a> at Stellenbosch University's Unit for the Ethics of Technology. 
 {style="text-align: justify;"}
 
-Interdisciplinary expertise in human-computer interaction; (computational) linguistics; philosophy; user-centred design and responsible innovation methodology; cognitive science; applied ethics; and social anthropology. 
+Rare multi-disciplinary expertise across <b>STEM</b> (<i>Computer Science</i>), <b>Humanities</b> (<i>Philosophy, Linguistics, Applied Ethics</i>), the <b>Social Sciences</b> (<i>Social Anthropology</i>), and <b>interdisciplinary research</b> (<i>Cognitive Science, Human-Computer Interaction, Responsible Innovation, Computational Linguistics</i>).
 {style="text-align: justify;"}
 
 My name rhymes with geezer.

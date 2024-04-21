@@ -2,9 +2,9 @@
 
 title: "Computers as Bad Social Actors: Dark and Anti-Patterns in Interfaces that Act Socially"
 authors: 
-- Alberts, L.
-- Lyngs, U.
-- Van Kleek, M.
+- admin
+- Ulrik Lyngs
+- Max Van Kleek
 date: "2024"
 # doi: "https://doi.org/10.48550/arXiv.2302.04720"
 

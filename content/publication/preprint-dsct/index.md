@@ -2,20 +2,20 @@
 
 title: "I finally felt I had the tools to control these urges': Empowering Students to Achieve Their Device Use Goals With the Reduce Digital Distraction Workshop"
 authors: 
-- Lyngs, U. 
-- Lukoff, K. 
-- Slovak, P. 
-- Inzlicht, M.
-- Freed, M.
-- Andrews, H.
-- Tinsman, C.
-- Csuka, L.
-- Alberts, L.
-- Oldemburgo de Mello, V.
-- Makransky, G.
-- Hornbæk, K.
-- Van Kleek, M.
-- Shadbolt., N
+- Ulrik Lyngs 
+- Kai Lukoff 
+- Petr Slovak
+- Michael Inzlicht
+- Maureen Freed
+- Hannah Andrews
+- Claudine Tinsman
+- Laura Csuka
+- admin
+- Victoria Oldemburgo de Mello
+- Guido Makransky
+- Kasper Hornbæk
+- Max Van Kleek
+- Nigel Shadbolt
 date: "2024"
 # doi: "https://doi.org/10.48550/arXiv.2302.04720"
 

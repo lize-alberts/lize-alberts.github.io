@@ -1,7 +1,7 @@
 ---
 title: "Meeting Them Halfway: Altering Language Conventions to Facilitate Human-Robot Interaction"
 authors:
-- Alberts, L.
+- admin
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
