@@ -129,7 +129,7 @@ highlight_name: true
 ---
 
 Fourth-year DPhil Candidate in Computer Science at the <a href="https://www.cs.ox.ac.uk/people/lize.alberts/">University of Oxford</a>. Former Student Researcher at <a href="
-https://doi.org/10.48550/arXiv.2401.09082">Google</a> leading a project on the evaluation of LLM agents.<a href="https://www0.sun.ac.za/philosophy/centre-for-applied-ethics/unit-for-the-ethics-of-technology/unit-for-the-ethics-of-technology-staff-2/"> Research Fellow</a> at Stellenbosch University's Unit for the Ethics of Technology. 
+https://doi.org/10.48550/arXiv.2401.09082">Google</a> leading a project on Large Language Model (LLM) evaluation.<a href="https://www0.sun.ac.za/philosophy/centre-for-applied-ethics/unit-for-the-ethics-of-technology/unit-for-the-ethics-of-technology-staff-2/"> Research Fellow</a> at Stellenbosch University's Unit for the Ethics of Technology. 
 {style="text-align: justify;"}
 
 Rare multi-disciplinary expertise across <b>STEM</b> (<i>Computer Science</i>), <b>Humanities</b> (<i>Philosophy, Linguistics, Applied Ethics</i>), the <b>Social Sciences</b> (<i>Social Anthropology</i>), and <b>interdisciplinary research</b> (<i>Cognitive Science, Human-Computer Interaction, Responsible Innovation, Computational Linguistics</i>).
