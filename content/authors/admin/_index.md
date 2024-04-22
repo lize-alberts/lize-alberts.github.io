@@ -44,13 +44,13 @@ education:
     - course: D.Phil. in Computer Science
       institution: University of Oxford
       # year: 2024
-    - course: M.A. by Thesis in Philosophy (Cognitive & Computational Linguistics)
+    - course: M.A. by Thesis in Philosophy (focus on Cognitive Science, Computational Linguistics)
       institution: Stellenbosch University
       year: 2020
     - course: B.A. Hons. in Philosophy
       institution: Stellenbosch University
       year: 2019
-    - course: B.A. in Humanities (Philosophy, Social Anthropology, Art History, English)
+    - course: B.A. in Humanities (focus on Philosophy, Social Anthropology, Art History)
       institution: North-West University
       year: 2018
 
@@ -132,7 +132,7 @@ Fourth-year DPhil Candidate in Computer Science at the <a href="https://www.cs.o
 https://doi.org/10.48550/arXiv.2401.09082">Google</a> leading a project on Large Language Model (LLM) evaluation.<a href="https://www0.sun.ac.za/philosophy/centre-for-applied-ethics/unit-for-the-ethics-of-technology/unit-for-the-ethics-of-technology-staff-2/"> Research Fellow</a> at Stellenbosch University's Unit for the Ethics of Technology. 
 {style="text-align: justify;"}
 
-Rare multi-disciplinary expertise across <b>STEM</b> (<i>Computer Science</i>), the <b>Humanities</b> (<i>Philosophy, Linguistics, Applied Ethics</i>), the <b>Social Sciences</b> (<i>Social Anthropology, Quantitative & Qualitative Research</i>), and <b>interdisciplinary research areas</b> (<i>Cognitive Science, Human-Computer Interaction, Responsible Innovation, Computational Linguistics</i>).
+Rare multi-disciplinary expertise across <b>STEM</b> (<i>Computer Science</i>), the <b>Humanities</b> (<i>Philosophy, Linguistics, Practical Ethics</i>), the <b>Social Sciences</b> (<i>Quantitative and Qualitative Research, Social Anthropology</i>), and <b>interdisciplinary research areas</b> (<i>Cognitive Science, Human-Computer Interaction, Responsible Innovation, Computational Linguistics</i>).
 {style="text-align: justify;"}
 
 My name rhymes with geezer.
