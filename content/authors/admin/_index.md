@@ -31,12 +31,12 @@ bio: DPhil candidate in Computer Science at the University of Oxford and Researc
 
 # Interests to show in About widget
 interests:
-  - Human-Centred AI
-  - Foundation Model Ethics and Evaluation
-  - Philosophy of Language and Cognition
-  - Cognitive/Computational Linguistics
-  - The Ethics of Interaction/Behavioural Design
-  - Wellbeing-Supportive Technologies
+  - Human-centred AI
+  - Foundation model ethics and evaluation
+  - Cognitive/computational linguistics
+  - Philosophy of language and cognition
+  - The ethics of interaction/behavioural design
+  - Wellbeing-supportive technologies
 
 # Education to show in About widget
 education:
@@ -128,11 +128,11 @@ social:
 highlight_name: true
 ---
 
-Fourth-year DPhil Candidate in Computer Science at the <a href="https://www.cs.ox.ac.uk/people/lize.alberts/">University of Oxford</a>. Former Student Researcher at <a href="
-https://doi.org/10.48550/arXiv.2401.09082">Google</a> leading a project on Large Language Model (LLM) evaluation.<a href="https://www0.sun.ac.za/philosophy/centre-for-applied-ethics/unit-for-the-ethics-of-technology/unit-for-the-ethics-of-technology-staff-2/"> Research Fellow</a> at Stellenbosch University's Unit for the Ethics of Technology. 
+Fourth-year doctoral candidate in computer science at the <a href="https://www.cs.ox.ac.uk/people/lize.alberts/">University of Oxford</a>. Former student researcher at <a href="
+https://doi.org/10.48550/arXiv.2401.09082">Google</a> leading a project on Large Language Model (LLM) evaluation.<a href="https://www0.sun.ac.za/philosophy/centre-for-applied-ethics/unit-for-the-ethics-of-technology/unit-for-the-ethics-of-technology-staff-2/"> Research fellow</a> at Stellenbosch University's Unit for the Ethics of Technology. 
 {style="text-align: justify;"}
 
-Rare multi-disciplinary expertise across <b>STEM</b> (<i>Computer Science</i>), the <b>Humanities</b> (<i>Philosophy, Linguistics, Practical Ethics</i>), the <b>Social Sciences</b> (<i>Quantitative and Qualitative Research, Social Anthropology</i>), and <b>interdisciplinary research areas</b> (<i>Cognitive Science, Human-Computer Interaction, Responsible Innovation, Computational Linguistics</i>).
+Rare multi-disciplinary expertise across <b>STEM</b> (<i>computer science</i>), the <b>humanities</b> (<i>philosophy, linguistics, practical ethics</i>), the <b>social sciences</b> (<i>quantitative and qualitative research, social anthropology</i>), and <b>interdisciplinary research areas</b> (<i>cognitive science, HCI, responsible innovation, computational linguistics</i>).
 {style="text-align: justify;"}
 
 My name rhymes with geezer.
