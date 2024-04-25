@@ -12,7 +12,7 @@ address:
   postcode: N1C 4AG
   country: UK
 
-summary: "Presentation on my recent paper on inappropriate forms of automated social behaviours to a Google-Cambridge University reading group."
+summary: "I presented my recent paper on inappropriate forms of automated social behaviours to a Google-Cambridge University reading group."
 # abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.

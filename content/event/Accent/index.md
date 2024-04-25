@@ -12,7 +12,7 @@ address:
   postcode: OX2 6GG
   country: UK
 
-summary: "Talk on my doctoral research on respect as a value for AI and human-computer interaction."
+summary: "I gave a talk on my doctoral research on respect as a value for AI and human-computer interaction."
 # abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.

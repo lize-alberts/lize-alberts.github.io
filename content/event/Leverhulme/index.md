@@ -12,7 +12,7 @@ address:
   postcode: CB2 1SB
   country: UK
 
-summary: "I presented on my first journal paper on using constructed language and symbolic AI as a medium for human-computer interaction"
+summary: "I presented on my first journal paper on using constructed language and symbolic AI as a medium for human-computer interaction."
 # abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
