@@ -6,19 +6,19 @@ authors:
 - Ulrik Lyngs
 - Max Van Kleek
 date: "2024"
-# doi: "https://doi.org/10.48550/arXiv.2302.04720"
+doi: "https://doi.org/10.1145/3653693"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-01-05"
+publishDate: "2024-04-26"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['journal']
 
 # Publication name and optional abbreviated publication name.
-publication: To appear in *Proceedings of the ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW). San José, Costa Rica. November 9-13, 2024*
-publication_short: To appear in *Proceedings of the ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW). San José, Costa Rica. November 9-13, 2024*
+publication: "*Proceedings of the ACM on Human-Computer Interaction, Volume 8, Issue CSCW1, Article No. 202, pp 1–25*"
+publication_short: "*Proceedings of the ACM on Human-Computer Interaction, Volume 8, Issue CSCW1, Article No. 202, pp 1–25*"
 
 # Publication name and optional abbreviated publication name.
 # publication: "Computers as Bad Social Actors: Dark Patterns and Anti-Patterns in Interfaces that Act Socially"
@@ -40,8 +40,8 @@ featured: false
 
 links:
 - name: DOI
-  url: https://doi.org/10.48550/arXiv.2302.04720
-url_pdf: https://arxiv.org/pdf/2302.04720.pdf
+  url: https://doi.org/10.1145/3653693
+url_pdf: https://dl.acm.org/doi/pdf/10.1145/3653693
 
 
 # Featured image
