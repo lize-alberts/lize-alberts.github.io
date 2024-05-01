@@ -51,9 +51,7 @@ tags:
 featured: false 
 
 links:
-- name: DOI
-  url: https://doi.org/10.48550/arXiv.2401.09082
-url_pdf: https://arxiv.org/pdf/2401.09082.pdf
+url_pdf: https://ora.ox.ac.uk/objects/uuid:054b948b-e72b-4547-b20c-73ac5d135504/files/szw12z707j
 
 
 # Featured image
