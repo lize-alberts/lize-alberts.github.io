@@ -39,8 +39,6 @@ tags:
 featured: false
 
 links:
-- name: DOI
-  url: https://doi.org/10.1145/3653693
 url_pdf: https://dl.acm.org/doi/pdf/10.1145/3653693
 
 
