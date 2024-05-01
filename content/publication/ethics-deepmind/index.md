@@ -61,7 +61,7 @@ authors:
 - James Manyika
 
 date: "2024"
-# doi: "https://doi.org/10.48550/arXiv.2302.04720"
+doi: "https://doi.org/10.48550/arXiv.2404.16244"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-04-19"
