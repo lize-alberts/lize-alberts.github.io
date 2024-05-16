@@ -17,7 +17,7 @@ authors:
 - Max Van Kleek
 - Nigel Shadbolt
 date: "2024"
-# doi: "https://doi.org/10.48550/arXiv.2302.04720"
+doi: "https://doi.org/10.1145/3613904.3642946"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-01-17"
@@ -28,30 +28,27 @@ publishDate: "2024-01-17"
 publication_types: ["article-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "To appear in *Proceedings of the ACM CHI Conference on Human Factors in Computing Systems. Honolulu, Hawai'i, USA. 11-16 May 2024*"
-publication_short: "To appear in *Proceedings of the ACM CHI Conference on Human Factors in Computing Systems. Honolulu, Hawai'i, USA. 11-16 May 2024*"
+publication: "*CHI '24: Proceedings of the CHI Conference on Human Factors in Computing Systems, May 2024, Article No.: 251, Pages 1–23*"
+publication_short: "*CHI '24: Proceedings of the CHI Conference on Human Factors in Computing Systems, May 2024, Article No.: 251, Pages 1–23*"
 
-abstract: With the growing popularity of  dialogue agents based on large language models (LLMs), urgent attention has been drawn to finding ways to ensure their behaviour is ethical and appropriate. These are largely interpreted in terms of the ‘HHH’ criteria for making outputs more helpful and honest, and avoiding harmful (biased, toxic, or inaccurate) statements. Whilst this semantic focus is useful from the perspective of viewing LLM agents as mere mediums for information, it fails to account for pragmatic factors that can make the same utterance seem more or less offensive or tactless in different social situations. We propose an approach to ethics that is more centred on relational and situational factors, exploring what it means for a system, as a social actor, to treat an individual respectfully in a (series of) interaction(s). Our work anticipates a set of largely unexplored risks at the level of situated interaction, and  offers practical suggestions to help LLM technologies behave as good social actors and treat people respectfully.
+abstract: Digital self-control tools (DSCTs) help people control their time and attention on digital devices, using interventions like distraction blocking or usage tracking. Most studies of DSCTs’ effectiveness have focused on whether a single intervention reduces time spent on a single device. In reality, people may require combinations of DSCTs to achieve more subjective goals across multiple devices. We studied how DSCTs can address individual needs of university students (n = 280), using a workshop where students reflect on their goals before exploring relevant tools. At 1-3 month follow-ups, 95% of respondents still used at least one type of DSCT, typically applied across multiple devices, and there was substantial variation in the tool combinations chosen. We observed a large increase in self-reported digital self-control, suggesting that providing a space to articulate goals and self-select appropriate DSCTs is a powerful way to support people who struggle to self-regulate digital device use.
 
 
 
 # Summary. An optional shortened abstract.
 
-summary: Critiquing the harmless, honest, helpful ('HHH') framework for LLM alignment, we propose an interactional ethics that is more centred on pragmatic factors, exploring what it means for a system, as a social actor, to treat an individual respectfully in a (series of) interaction(s). Our work anticipates a set of largely unexplored risks at the level of situated interaction, and offers practical suggestions to help LLM technologies behave as good social actors and treat people respectfully. 
+summary: We studied how digital self-control tools (DSCTs) can address individual needs of university students (n = 280), using a workshop where students reflect on their goals before exploring relevant tools. At 1-3 month follow-ups, 95% of respondents still used at least one type of DSCT, typically applied across multiple devices, and there was substantial variation in the tool combinations chosen. We observed a large increase in self-reported digital self-control, suggesting that providing a space to articulate goals and self-select appropriate DSCTs is a powerful way to support people who struggle to self-regulate digital device use. 
 
 tags:
-- Large Language Model Alignment 
-- Dialogue Agents
-- Social Interactional Harms
-- Respect
-- Interactional Ethics
-- Self-Determination Theory
-- The Ethics of Care
+- Digital self-control
+- Digital wellbeing
+- Distraction
+- Attention
 
 featured: false 
 
 links:
-url_pdf: https://ora.ox.ac.uk/objects/uuid:054b948b-e72b-4547-b20c-73ac5d135504/files/szw12z707j
+url_pdf: https://dl.acm.org/doi/pdf/10.1145/3613904.3642946
 
 
 # Featured image
