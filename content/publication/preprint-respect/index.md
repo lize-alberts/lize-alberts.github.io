@@ -1,6 +1,6 @@
 ---
 
-title: "What Makes for a 'Good' Social Actor? Using Respect as a Lens to Evaluate Interactions with Language Agents"
+title: "Should agentic conversational AI change how we think about ethics? Characterising an interactional ethics centred on respect"
 authors: 
 - admin
 - Geoff Keeling
