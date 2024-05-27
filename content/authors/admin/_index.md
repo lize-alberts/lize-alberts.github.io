@@ -33,10 +33,11 @@ bio: DPhil candidate in Computer Science at the University of Oxford and Researc
 interests:
   - Human-centred AI
   - Foundation model ethics and evaluation
-  - Cognitive/computational linguistics
-  - Philosophy of language and cognition
-  - The ethics of interaction/behavioural design
+  - Cognitive and computational linguistics
+  - Philosophy of mind and language
+  - Interactional/behavioural design ethics
   - Wellbeing-supportive technologies
+  - Responsible Innovation
 
 # Education to show in About widget
 education:
@@ -44,13 +45,13 @@ education:
     - course: D.Phil. in Computer Science
       institution: University of Oxford
       # year: 2024
-    - course: M.A. by Thesis in Philosophy (focus on Cognitive Science, Computational Linguistics)
+    - course: M.A. by Thesis in Philosophy (with distinction)
       institution: Stellenbosch University
       year: 2020
-    - course: B.A. Hons. in Philosophy
+    - course: B.A. Hons. in Philosophy (with distinction)
       institution: Stellenbosch University
       year: 2019
-    - course: B.A. in Humanities (focus on Philosophy, Social Anthropology, Art History)
+    - course: B.A. in Humanities (summa cum laude)
       institution: North-West University
       year: 2018
 
