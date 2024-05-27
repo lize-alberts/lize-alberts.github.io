@@ -42,7 +42,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: D.Phil. in Computer Science - focus on HCI and LLM evaluation
+    - course: D.Phil. in Computer Science - focus on LLM evaluation and HCI methodology
       institution: University of Oxford
       # year: 2024
     - course: M.A. by Thesis in Philosophy (with distinction) - focus on embodied cognition and computational linguistics
@@ -129,7 +129,7 @@ social:
 highlight_name: true
 ---
 I am in the final stages of a doctorate in Computer Science at the <a href="https://www.cs.ox.ac.uk/people/lize.alberts/">University of Oxford</a>., in the Human-Centred Artificial Intelligence (HCAI) research group. As a student researcher at <a href="
-https://doi.org/10.48550/arXiv.2401.09082">Google</a>, I recently led a project on the ethics and evaluation of foundation models. I am also <a href="https://www0.sun.ac.za/philosophy/centre-for-applied-ethics/unit-for-the-ethics-of-technology/unit-for-the-ethics-of-technology-staff-2/"> Research Fellow</a> at Stellenbosch University's Unit for the Ethics of Technology, and am funded by a competitive scholarship from Oxford’s Responsible Technology Institute.
+https://doi.org/10.48550/arXiv.2401.09082">Google</a>, I recently led a project on the ethics and evaluation of foundation models. I am also <a href="https://www0.sun.ac.za/philosophy/centre-for-applied-ethics/unit-for-the-ethics-of-technology/unit-for-the-ethics-of-technology-staff-2/"> Research Fellow</a> at Stellenbosch University's Unit for the Ethics of Technology, and am funded by a scholarship from Oxford’s Responsible Technology Institute.
 
 I have rare multi-disciplinary expertise across <b>STEM</b> (computer science), the <b>humanities</b> (philosophy, linguistics, practical ethics), the <b>social sciences</b> (quantitative and qualitative research, social anthropology), and <b>cross-over areas</b> (cognitive science, HCI, responsible innovation, computational linguistics).
 {style="text-align: justify;"}
