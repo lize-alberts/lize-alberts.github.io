@@ -45,10 +45,10 @@ education:
     - course: D.Phil. in Computer Science - focus on LLM evaluation and HCI methodology
       institution: University of Oxford
       # year: 2024
-    - course: M.A. by Thesis in Philosophy (with distinction) - focus on embodied cognition and computational linguistics
+    - course: M.A. by thesis in Philosophy (w. distinction) - focus on embodied cognition and computational linguistics
       institution: Stellenbosch University
       year: 2020
-    - course: B.A. Hons. in Philosophy (with distinction)
+    - course: B.A. Hons. in Philosophy (w. distinction)
       institution: Stellenbosch University
       year: 2019
     - course: B.A. in Humanities (summa cum laude) - maj. philosophy, social anthropology, history of art, linguistics
@@ -129,12 +129,12 @@ social:
 highlight_name: true
 ---
 I am in the final stages of a doctorate in Computer Science at the <a href="https://www.cs.ox.ac.uk/people/lize.alberts/">University of Oxford</a>., in the Human-Centred Artificial Intelligence (HCAI) research group. As a student researcher at <a href="
-https://doi.org/10.48550/arXiv.2401.09082">Google</a>, I recently led a project on the ethics and evaluation of foundation models. I am also <a href="https://www0.sun.ac.za/philosophy/centre-for-applied-ethics/unit-for-the-ethics-of-technology/unit-for-the-ethics-of-technology-staff-2/"> Research Fellow</a> at Stellenbosch University's Unit for the Ethics of Technology, and am funded by a scholarship from Oxford’s Responsible Technology Institute.
+https://doi.org/10.48550/arXiv.2401.09082">Google</a>, I recently led a project on the ethics and evaluation of foundation models. I am also <a href="https://www0.sun.ac.za/philosophy/centre-for-applied-ethics/unit-for-the-ethics-of-technology/unit-for-the-ethics-of-technology-staff-2/"> Research Fellow</a> at Stellenbosch University's Unit for the Ethics of Technology, and am funded by a scholarship from <a href="https://www.rti.ox.ac.uk/people/">Oxford’s Responsible Technology Institute</a>.
 
 I have rare multi-disciplinary expertise across <b>STEM</b> (computer science), the <b>humanities</b> (philosophy, linguistics, practical ethics), the <b>social sciences</b> (quantitative and qualitative research, social anthropology), and <b>cross-over areas</b> (cognitive science, HCI, responsible innovation, computational linguistics).
 {style="text-align: justify;"}
 
-<!-- My social sciences background taught me about the complexity of societal issues, the diversity of human experience, and how to think critically. Complementarily, my STEM education taught me to think practically and productively, and to exercise caution when inferring from empirical data. Finally, my philosophical background taught me how to reduce arguments to their core, recognise fallacies, grasp the bigger picture, and anticipate future implications. This rare combination allows me to not only integrate perspectives and insights from different disciplines, but maintain their individual standards of rigour while doing so. -->
+<!-- My social sciences background taught me about the complexity of societal issues, the diversity of human experience, and how to think critically. Complementarily, my STEM education taught me to think practically and productively, and to exercise caution when inferring from empirical data. My philosophical background taught me how to reduce arguments to their core, recognise fallacies, grasp the bigger picture, and anticipate future implications. This rare combination allows me to not only integrate perspectives and insights from different disciplines, but maintain their individual standards of rigour while doing so. -->
 
 Researching AI for the past six years has helped me appreciate how essential, yet still rare it is to bridge relevant disciplines and engage with ethics in ways that do not merely pay lip service. As a fast-changing area with few established guidelines, it requires continuous critical reflection; fast skill and knowledge acquisition; multi-perspectival evaluation; and creative reimagining. It is at this intersection that my skillset lies.
 
