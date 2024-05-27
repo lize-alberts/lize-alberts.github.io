@@ -137,6 +137,5 @@ My social sciences background taught me about the complexity of societal issues,
 
 Researching AI for the past six years has helped me appreciate how essential, yet still rare it is to bridge relevant disciplines and engage with ethics in ways that do not merely pay lip service. As a fast-changing area with few established guidelines, it requires continuous critical reflection; fast skill and knowledge acquisition; multi-perspectival evaluation; and creative reimagining. It is at this intersection that my skillset lies.
 
-
 My name rhymes with geezer.
 
