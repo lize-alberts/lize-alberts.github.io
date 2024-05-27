@@ -135,7 +135,7 @@ I have rare multi-disciplinary expertise across <b>STEM</b> (computer science), 
 
 <!-- My social sciences background taught me about the complexity of societal issues, the diversity of human experience, and how to think critically. Complementarily, my STEM education taught me to think practically and productively, and to exercise caution when inferring from empirical data. My philosophical background taught me how to reduce arguments to their core, recognise fallacies, grasp the bigger picture, and anticipate future implications. This rare combination allows me to not only integrate perspectives and insights from different disciplines, but maintain their individual standards of rigour while doing so. -->
 
-Researching AI for the past six years has helped me appreciate how essential, yet still rare it is to bridge relevant disciplines and engage with ethics in ways that do not merely pay lip service. As a fast-changing area with few established guidelines, it requires continuous critical reflection; fast skill and knowledge acquisition; multi-perspectival evaluation; and creative reimagining. It is at this intersection that my skillset lies.
+Researching AI for the past six years has helped me appreciate how important, yet still rare it is to bridge relevant disciplines and engage with ethics in ways that do not merely pay lip service. As a fast-changing area with few established guidelines, it requires continuous critical reflection; fast skill and knowledge acquisition; multi-perspectival evaluation; and creative reimagining. My research happens at this intersection.
 
 My name rhymes with geezer.
 
