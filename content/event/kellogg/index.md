@@ -12,7 +12,7 @@ address:
   postcode: OX2 6PN
   country: UK
 
-summary: "I was invited to share my insights on the challenges of balancing the potential benefits of AI against the possible harms to society."
+summary: "As the only student on a select panel of AI experts at Oxford, I was invited to share my insights on the challenges of balancing the potential benefits of AI against the possible harms to society."
 # abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
