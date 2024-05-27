@@ -45,13 +45,13 @@ education:
     - course: D.Phil. in Computer Science
       institution: University of Oxford
       # year: 2024
-    - course: M.A. by Thesis in Philosophy (with distinction)
+    - course: M.A. by Thesis in Philosophy (with distinction) - focus on embodied cognition and computational linguistics
       institution: Stellenbosch University
       year: 2020
     - course: B.A. Hons. in Philosophy (with distinction)
       institution: Stellenbosch University
       year: 2019
-    - course: B.A. in Humanities (summa cum laude)
+    - course: B.A. in Humanities (summa cum laude) - focus on philosophy, social anthropology, linguistics
       institution: North-West University
       year: 2018
 
@@ -129,7 +129,7 @@ social:
 highlight_name: true
 ---
 I am in the final stages of a doctorate in Computer Science at the <a href="https://www.cs.ox.ac.uk/people/lize.alberts/">University of Oxford</a>., in the Human-Centred Artificial Intelligence (HCAI) research group. As a student researcher at <a href="
-https://doi.org/10.48550/arXiv.2401.09082">Google</a>, I recently led a project on the ethics and evaluation of foundation models. I am also a <a href="https://www0.sun.ac.za/philosophy/centre-for-applied-ethics/unit-for-the-ethics-of-technology/unit-for-the-ethics-of-technology-staff-2/"> research fellow</a> at Stellenbosch University's Unit for the Ethics of Technology, and am funded by a competitive scholarship from Oxford’s Responsible Technology Institute.
+https://doi.org/10.48550/arXiv.2401.09082">Google</a>, I recently led a project on the ethics and evaluation of foundation models. I am also <a href="https://www0.sun.ac.za/philosophy/centre-for-applied-ethics/unit-for-the-ethics-of-technology/unit-for-the-ethics-of-technology-staff-2/"> Research Fellow</a> at Stellenbosch University's Unit for the Ethics of Technology, and am funded by a competitive scholarship from Oxford’s Responsible Technology Institute.
 
 I have rare multi-disciplinary expertise across <b>STEM</b> (<i>computer science</i>), the <b>humanities</b> (<i>philosophy, linguistics, practical ethics</i>), the <b>social sciences</b> (<i>quantitative and qualitative research, social anthropology</i>), and <b>cross-over areas</b> (<i>cognitive science, HCI, responsible innovation, computational linguistics</i>).
 {style="text-align: justify;"}
