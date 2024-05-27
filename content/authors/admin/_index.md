@@ -37,7 +37,6 @@ interests:
   - Philosophy of mind and language
   - Interactional/behavioural design ethics
   - Wellbeing-supportive technologies
-  - Responsible Innovation
 
 # Education to show in About widget
 education:
