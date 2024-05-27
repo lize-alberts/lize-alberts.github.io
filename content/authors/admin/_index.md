@@ -130,12 +130,12 @@ highlight_name: true
 I am in the final stages of a doctorate in Computer Science at the <a href="https://www.cs.ox.ac.uk/people/lize.alberts/">University of Oxford</a>., in the Human-Centred Artificial Intelligence (HCAI) research group. As a student researcher at <a href="
 https://doi.org/10.48550/arXiv.2401.09082">Google</a>, I recently led a project on the ethics and evaluation of foundation models. I am also <a href="https://www0.sun.ac.za/philosophy/centre-for-applied-ethics/unit-for-the-ethics-of-technology/unit-for-the-ethics-of-technology-staff-2/">Research Fellow</a> at Stellenbosch University's Unit for the Ethics of Technology, and am funded by a scholarship from <a href="https://www.rti.ox.ac.uk/people/">Oxford’s Responsible Technology Institute</a>.
 
-I have rare multi-disciplinary expertise across <b>STEM</b> (computer science), the <b>humanities</b> (philosophy, linguistics, practical ethics), the <b>social sciences</b> (quantitative and qualitative research, social anthropology), and <b>cross-over areas</b> (cognitive science, HCI, responsible innovation, computational linguistics).
+I am a generalist with training across <b>STEM</b> (computer science), the <b>humanities</b> (philosophy, linguistics, practical ethics), the <b>social sciences</b> (quantitative and qualitative research, social anthropology), and <b>cross-over areas</b> (cognitive science, HCI, responsible innovation, computational linguistics).
 {style="text-align: justify;"}
 
 <!-- My social sciences background taught me about the complexity of societal issues, the diversity of human experience, and how to think critically. Complementarily, my STEM education taught me to think practically and productively, and to exercise caution when inferring from empirical data. My philosophical background taught me how to reduce arguments to their core, recognise fallacies, grasp the bigger picture, and anticipate future implications. This rare combination allows me to not only integrate perspectives and insights from different disciplines, but maintain their individual standards of rigour while doing so. -->
 
 Researching AI for the past six years has helped me appreciate how important, yet still rare it is to bridge relevant disciplines and engage with ethics in ways that do not merely pay lip service. As a fast-changing area with few established guidelines, it requires continuous critical reflection; fast skill and knowledge acquisition; multi-perspectival evaluation; and creative reimagining. My research happens at this intersection.
 
-My name rhymes with geezer.
+'Lize' rhymes with geezer.
 
