@@ -42,7 +42,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: D.Phil. in Computer Science
+    - course: D.Phil. in Computer Science - focus on HCI and LLM evaluation
       institution: University of Oxford
       # year: 2024
     - course: M.A. by Thesis in Philosophy (with distinction) - focus on embodied cognition and computational linguistics
@@ -51,7 +51,7 @@ education:
     - course: B.A. Hons. in Philosophy (with distinction)
       institution: Stellenbosch University
       year: 2019
-    - course: B.A. in Humanities (summa cum laude) - focus on philosophy, social anthropology, linguistics
+    - course: B.A. in Humanities (summa cum laude) - maj. philosophy, social anthropology, history of art, linguistics
       institution: North-West University
       year: 2018
 
