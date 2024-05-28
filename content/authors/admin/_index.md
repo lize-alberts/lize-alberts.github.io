@@ -44,10 +44,10 @@ education:
     - course: D.Phil. in Computer Science - developing a novel theoretical framework for agentic AI evaluation
       institution: University of Oxford
       # year: 2024
-    - course: M.A. by thesis in Philosophy (w. distinction) - focus on embodied cognition and computational linguistics
+    - course: M.A. by thesis in Philosophy (with distinction) - focus on embodied cognition and computational linguistics
       institution: Stellenbosch University
       year: 2020
-    - course: B.A. Hons. in Philosophy (w. distinction)
+    - course: B.A. Hons. in Philosophy (with distinction)
       institution: Stellenbosch University
       year: 2019
     - course: B.A. in Humanities (summa cum laude)
