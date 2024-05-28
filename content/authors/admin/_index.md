@@ -132,7 +132,7 @@ https://doi.org/10.48550/arXiv.2401.09082">Google</a>, I recently led a project 
 
 My educational background spans <b>STEM</b> (computer science), the <b>humanities</b> (philosophy, linguistics, practical ethics), the <b>social sciences</b> (quantitative and qualitative research, social anthropology), and <b>interdisciplinary areas</b> (cognitive science, HCI, responsible innovation, computational linguistics).
 
-Apart from my D.Phil. in Computer Science and my M.A. by thesis (140-pages) in Philosophy, I have about 7 years of experience teaching university courses across STEM and the Humanities. Holding myself accountable to the standards of rigour of diverse disciplines has helped me appreciate how tricky, but important it is to bridge relevant domains and engage with AI ethics in ways that do not merely pay lip service. As a fast-changing area with few established guidelines, it requires continuous critical reflection; fast skill and knowledge acquisition; multi-perspectival evaluation; and creative reimagining. My work lies at this intersection.
+Apart from my D.Phil. in Computer Science and my M.A. by thesis (140-pages) in Philosophy, I have over six years' experience teaching university courses across STEM and the Humanities. Holding myself accountable to the standards of rigour of diverse disciplines has helped me appreciate how tricky, but important it is to bridge relevant domains and engage with AI ethics in ways that do not merely pay lip service. As a fast-changing area with few established guidelines, it requires continuous critical reflection; fast skill and knowledge acquisition; multi-perspectival evaluation; and creative reimagining. My work lies at this intersection.
 
 {style="text-align: justify;"} 
 
