@@ -129,8 +129,10 @@ highlight_name: true
 ---
 I am in the final stages of a doctorate in Computer Science at the <a href="https://www.cs.ox.ac.uk/people/lize.alberts/">University of Oxford</a>, in the Human-Centred Artificial Intelligence (HCAI) research group. As a student researcher at <a href="
 https://doi.org/10.48550/arXiv.2401.09082">Google</a>, I recently led a project on the ethics and evaluation of foundation models. I am also <a href="https://www0.sun.ac.za/philosophy/centre-for-applied-ethics/unit-for-the-ethics-of-technology/unit-for-the-ethics-of-technology-staff-2/">Research Fellow</a> at the Unit for the Ethics of Technology, and am funded by a scholarship from <a href="https://www.rti.ox.ac.uk/people/">Oxford’s Responsible Technology Institute</a>.
+{style="text-align: justify;"}
 
 My educational background spans <b>STEM</b> (computer science), the <b>humanities</b> (philosophy, linguistics, practical ethics), the <b>social sciences</b> (quantitative and qualitative research, social anthropology), and <b>interdisciplinary areas</b> (cognitive science, HCI, responsible innovation, computational linguistics).
+{style="text-align: justify;"}
 
 Aside from a D.Phil. in Computer Science and an M.A. by thesis (140-pages) in Philosophy, I have over six years' experience teaching university courses across STEM and the Humanities. Holding myself accountable to the standards of rigour of diverse disciplines has helped me appreciate how tricky, but important it is to bridge relevant domains and engage with AI ethics in ways that do not merely pay lip service. As a fast-changing area with few established guidelines, it requires continuous critical reflection; fast skill and knowledge acquisition; multi-perspectival evaluation; and creative reimagining. My work lies at this intersection.
 {style="text-align: justify;"} 
