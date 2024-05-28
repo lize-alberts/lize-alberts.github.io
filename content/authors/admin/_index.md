@@ -132,7 +132,7 @@ https://doi.org/10.48550/arXiv.2401.09082">Google</a>, I recently led a project 
 
 My educational background spans <b>STEM</b> (computer science), the <b>humanities</b> (philosophy, linguistics, practical ethics), the <b>social sciences</b> (quantitative and qualitative research, social anthropology), and <b>interdisciplinary areas</b> (cognitive science, HCI, responsible innovation, computational linguistics).
 
-Apart from my DPhil in CompSci and my MA (by thesis, 140-pages) in Philosophy, I have about 7 years' experience teaching university courses across STEM and the Humanities.
+Apart from my D.Phil. in Computer Science and my M.A. by thesis (140-pages) in Philosophy, I have about 7 years of experience teaching university courses across STEM and the Humanities.
 
 <!-- My social sciences background taught me about the complexity of societal issues, the diversity of human experience, and how to think critically. Complementarily, my STEM education taught me to think practically and productively, and to exercise caution when inferring from empirical data. My philosophical background taught me how to reduce arguments to their core, recognise fallacies, grasp the bigger picture, and anticipate future implications. This rare combination allows me to not only integrate perspectives and insights from different disciplines, but maintain their individual standards of rigour while doing so. -->
 
