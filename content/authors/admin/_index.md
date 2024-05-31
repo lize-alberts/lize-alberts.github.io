@@ -32,8 +32,8 @@ bio: DPhil candidate in Computer Science at the University of Oxford and Researc
 # Interests to show in About widget
 interests:
   - Human-centred AI
-  - LLM alignment and evaluation
-  - Cognitive and computational linguistics
+  - LLM alignment & evaluation
+  - Cognitive & computational linguistics
   - The philosophy of cognition
   - Interactional/behavioural design ethics
   - Wellbeing-supportive technologies
