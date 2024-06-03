@@ -1,5 +1,5 @@
 ---
-title: Panellist on "Artificial Intelligence versus Natural Stupidity"
+title: Invited panellist on "Artificial Intelligence versus Natural Stupidity"
 
 event: Kellogg College Computer Science & Software Engineering Reunion Panel and Dinner
 # event_url: https://roseguingrich.com/computers-as-bad-social-actors/

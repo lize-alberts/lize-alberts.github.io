@@ -1,5 +1,5 @@
 ---
-title: Invited speaker on "Dark Patterns As Hostile Scaffolding"
+title: Invited panellist on "Dark Patterns As Hostile Scaffolding"
 
 event: International Scaffolding Bad Working Group Session
 # event_url: https://roseguingrich.com/computers-as-bad-social-actors/
@@ -12,7 +12,7 @@ address:
   postcode: 4041
   country: South Africa
 
-summary: "I was invited to share my thoughts on the connections between dark patterns and the concept of `hostile scaffolding'"
+summary: "I am invited to share my insights and discuss the connections between dark patterns and the concept of `hostile scaffolding'"
 # abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
