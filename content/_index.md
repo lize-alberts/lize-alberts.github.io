@@ -169,7 +169,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Talks, Panels & Workshops
+      title: Recent Talks & Events
       filters:
         folders:
           - event
