@@ -1,25 +1,25 @@
 ---
-title: Panellist on "Artificial Intelligence versus Natural Stupidity"
+title: Participant in Google’s "Techno-Moral Scenarios for Responsible Innovation" workshop 
 
-event: Kellogg College Computer Science & Software Engineering Reunion Panel and Dinner
+event: Google’s Techno-Moral Scenarios for Responsible Innovation
 # event_url: https://roseguingrich.com/computers-as-bad-social-actors/
 
-location: Kellogg College, University of Oxford
+location: Google Amsterdam
 address:
-  street: 60-62 Banbury Road
-  city: Oxford
+  street: Claude Debussylaan 34
+  city: Amsterdam
   region: 
-  postcode: OX2 6PN
-  country: UK
+  postcode: 1082 MD
+  country: Netherlands
 
-summary: "As the only student on a select panel of AI experts at Oxford, I was invited to share my insights on the challenges of balancing the potential benefits of AI against the possible harms to society."
+summary: "I was invited to join a select panel of experts from academia and industry to exchange views on using responsible innovation to advance a vision of AI that is empowering, meaningful, and beneficial. We practised using a combination of RI methods (e.g., design fiction, speculative design, and Google’s own techno-moral scenario approach) to imaginatively and reflexively engage with ethical concerns regarding new technologies."
 # abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-05-25T17:00:00Z'
-# date_end: '2030-06-01T15:00:00Z'
-# all_day: false
+date: '2023-10-17T17:00:00Z'
+date_end: '2023-10-19T15:00:00Z'
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 # publishDate: '2017-01-01T00:00:00Z'

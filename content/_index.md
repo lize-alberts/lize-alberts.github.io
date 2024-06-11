@@ -108,14 +108,14 @@ sections:
           date_start: '2020-11-15'
           date_end: '2024-01-15'
           description: The RTI is an international centre of excellence on responsible technology. I co-founded its international student network connecting researchers interested in topics related to responsible innovation. I help to organise reading groups, expert panel discussions, and work-in-progress seminars.
-        - title: Tutor & Teaching Assistant
+        - title: Lecturer & Teaching Assistant
           company: Stellenbosch University
           company_url: 'https://www0.sun.ac.za/philosophy/'
           company_logo: st
           location: Stellenbosch, South Africa
           date_start: '2018-02-14'
           date_end: '2019-07-01'
-          description: I helped administer two Philosophy courses, gave frequent tutorials for first years and led a weekly seminar for 80 third-years.
+          description: I helped administer two Philosophy courses, gave frequent tutorials for first years and led a weekly seminar for a class of 80 third-years.
         - title: Teaching Assistant & Seminar Leader
           company: North-West University
           company_url: 'https://humanities.nwu.ac.za/communication/history-art'

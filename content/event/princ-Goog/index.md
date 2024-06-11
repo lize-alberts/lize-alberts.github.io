@@ -1,25 +1,25 @@
 ---
-title: Panellist on "Artificial Intelligence versus Natural Stupidity"
+title: Participant in Google-Princeton University workshop, "Generative AI and its Impact on Human Creativity"
 
-event: Kellogg College Computer Science & Software Engineering Reunion Panel and Dinner
+event: Google-Princeton University workshop on "Generative AI and its Impact on Human Creativity"
 # event_url: https://roseguingrich.com/computers-as-bad-social-actors/
 
-location: Kellogg College, University of Oxford
+location: Princeton University
 address:
-  street: 60-62 Banbury Road
-  city: Oxford
+  street: Julis Romo Rabinowitz Building, Washington Road
+  city: Princeton, NJ
   region: 
-  postcode: OX2 6PN
-  country: UK
+  postcode: 08544
+  country: USA
 
-summary: "As the only student on a select panel of AI experts at Oxford, I was invited to share my insights on the challenges of balancing the potential benefits of AI against the possible harms to society."
+summary: "I was invited to join a select panel of scholars and Googlers to produce a set of responsible and ethical recommendations regarding Gen(erative) AI. The workshop was a collaborative effort between Google Research/Responsible Innovation and the Graziano Lab at Princeton University. We reflected on the nature and processes of human creativity, and how GenAI may affect, and ideally support it."
 # abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-05-25T17:00:00Z'
-# date_end: '2030-06-01T15:00:00Z'
-# all_day: false
+date: '2024-01-31T17:00:00Z'
+date_end: '2024-02-02T15:00:00Z'
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 # publishDate: '2017-01-01T00:00:00Z'

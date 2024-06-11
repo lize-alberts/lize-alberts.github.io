@@ -4,13 +4,13 @@ title: Princeton ETHICOM AI & Ethics seminar - Computers as Bad Social Actors
 event: Princeton ETHICOM AI & Ethics seminar
 event_url: https://roseguingrich.com/computers-as-bad-social-actors/
 
-location: Princeton University (Hybrid), NJ, USA
-# address:
-#   street: 
-#   city: 
-#   region: NJ
-#   postcode: 
-#   country: United States
+location: Princeton University (Hybrid)
+address:
+  street: Washington Road
+  city: Princeton, NJ
+  region: 
+  postcode: 08544
+  country: USA
 
 summary: "Join us for a presentation by PhD candidate and fellow Lize Alberts (University of Oxford, United Kingdom and Stellenbosch University, South Africa) on her recent paper, “Computers as Bad Social Actors - Dark Patterns and Anti-Patterns in Interfaces that Act Socially.” Lize’s research explores dynamics between people and AI and human-centered computing, and will present this work at CSCW 2024 (Conference on Computer-Supported Cooperative Work and Social Computing). This is the first in our seminar series with a presentation and discussion at the intersection of artificial intelligence, ethics, psychology, and computer science. This event will be hybrid. Register at https://cglink.me/2gi/r1941267"
 # abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'

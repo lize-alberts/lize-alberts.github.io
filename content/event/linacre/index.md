@@ -1,23 +1,23 @@
 ---
-title: Panellist on "Artificial Intelligence versus Natural Stupidity"
+title: Participant in Linacre College's Committee for Children Workshop
 
-event: Kellogg College Computer Science & Software Engineering Reunion Panel and Dinner
+event: Linacre College's Committee for Children Workshop and Dinner
 # event_url: https://roseguingrich.com/computers-as-bad-social-actors/
 
-location: Kellogg College, University of Oxford
+location: Linacre College, University of Oxford
 address:
-  street: 60-62 Banbury Road
+  street: St. Cross Road
   city: Oxford
   region: 
-  postcode: OX2 6PN
+  postcode: OX1 3JA
   country: UK
 
-summary: "As the only student on a select panel of AI experts at Oxford, I was invited to share my insights on the challenges of balancing the potential benefits of AI against the possible harms to society."
+summary: "I was invited to participate in the Committee for Children Workshop alongside experts from various disciplines across academia and industry. The event was a part of Linacre's Junior Research Fellowship programme focusing on AI and social and emotional wellbeing."
 # abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-05-25T17:00:00Z'
+date: '2024-05-28T17:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 # all_day: false
 

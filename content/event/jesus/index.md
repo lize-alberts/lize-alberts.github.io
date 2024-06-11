@@ -1,23 +1,23 @@
 ---
-title: Panellist on "Artificial Intelligence versus Natural Stupidity"
+title: Workshop leader at Jesus College's Women in Sciences Day
 
-event: Kellogg College Computer Science & Software Engineering Reunion Panel and Dinner
-# event_url: https://roseguingrich.com/computers-as-bad-social-actors/
+event: Women in Sciences Day, hosted by Jesus College's Access and Outreach team
+event_url: https://www.jesus.ox.ac.uk/college-launches-women-in-sciences-day-for-welsh-schools-students/#:~:text=The%20Women%20in%20Sciences%20Day%20takes%20place%20from%2009%3A00,decision%20approximately%20one%20week%20later
 
-location: Kellogg College, University of Oxford
+location: Jesus College, University of Oxford
 address:
-  street: 60-62 Banbury Road
+  street: Turl Street
   city: Oxford
   region: 
-  postcode: OX2 6PN
+  postcode: OX1 3DW
   country: UK
 
-summary: "As the only student on a select panel of AI experts at Oxford, I was invited to share my insights on the challenges of balancing the potential benefits of AI against the possible harms to society."
+summary: "I was invited to adapt and lead my Royal Institution Masterclass in Computer Science as a workshop for Welsh state schoolchildren at Jesus College's annual Women in Sciences Day."
 # abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-05-25T17:00:00Z'
+date: '2024-06-28T09:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 # all_day: false
 
