@@ -1,5 +1,5 @@
 ---
-title: Participant in Google-Princeton University workshop, "Generative AI and its Impact on Human Creativity"
+title: Participant in Google-Princeton workshop on Generative AI and its Impact on Human Creativity
 
 event: Google-Princeton University workshop on "Generative AI and its Impact on Human Creativity"
 # event_url: https://roseguingrich.com/computers-as-bad-social-actors/
