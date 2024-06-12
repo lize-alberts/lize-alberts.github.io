@@ -128,7 +128,7 @@ social:
 highlight_name: true
 ---
 I am a D.Phil. candidate in Computer Science at the <a href="https://www.cs.ox.ac.uk/people/lize.alberts/">University of Oxford</a>, in the Human-Centred Artificial Intelligence (HCAI) research group. As a Student Researcher at <a href="
-https://doi.org/10.48550/arXiv.2401.09082">Google</a>, I recently led a project on the ethics and evaluation of foundation models. I am also <a href="https://www0.sun.ac.za/philosophy/centre-for-applied-ethics/unit-for-the-ethics-of-technology/unit-for-the-ethics-of-technology-staff-2/">Research Fellow</a> at the Unit for the Ethics of Technology. My doctorate is funded by an award from Oxford’s <a href="https://www.rti.ox.ac.uk/people/">Responsible Technology Institute</a>.
+https://doi.org/10.48550/arXiv.2401.09082">Google</a>, I recently led a project on the ethics and evaluation of foundation models. I am also <a href="https://www0.sun.ac.za/philosophy/centre-for-applied-ethics/unit-for-the-ethics-of-technology/unit-for-the-ethics-of-technology-staff-2/">Research Fellow</a> at the Unit for the Ethics of Technology. My doctorate is funded by an award given by Oxford’s <a href="https://www.rti.ox.ac.uk/people/">Responsible Technology Institute</a>.
 {style="text-align: justify;"}
 
 I have a rare combination of qualifications and expertise across <b>STEM</b> (computer science), the <b>humanities</b> (philosophy, linguistics, practical ethics), the <b>social sciences</b> (quantitative and qualitative research, social anthropology), and <b>interdisciplinary fields surrounding AI</b> (cognitive science, HCI, responsible innovation, computational linguistics).
