@@ -136,6 +136,8 @@ My educational background spans <b>computer science</b>, the <b>humanities</b> (
 
 By combining these perspectives – the social, technical, conceptual, and theoretical – I engage critically with developments in AI in ways that remain practical, grounded, and analytically rigorous.
 {style="text-align: justify;"} 
+
+My name rhymes with geezer.
 <!-- Aside from a D.Phil. in Computer Science and an M.A. by thesis (140-pages) in Philosophy, I have over six years' experience teaching university courses across computer science, engineering and the humanities. Holding myself accountable to the standards of rigour of multiple disciplines has helped me appreciate how important, but tricky it is for researchers in AI to bridge relevant domains and engage with ethics in ways that do not merely pay lip service. As a fast-changing area with few established guidelines, it requires continuous critical reflection; fast skill and knowledge acquisition; multi-perspectival evaluation; and creative reimagining. My research lies this intersection.
 {style="text-align: justify;"}  -->
 
