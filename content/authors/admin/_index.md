@@ -132,7 +132,7 @@ https://doi.org/10.48550/arXiv.2401.09082">Google</a>, I recently led a project 
 {style="text-align: justify;"}
 
 With several degrees in diverse subjects, I have rare expertise across <b>STEM</b> (computer science), the <b>humanities</b> (philosophy, linguistics, practical ethics), the <b>social sciences</b> (quantitative & qualitative research, behavioural psychology, social anthropology), and <b>interdisciplinary fields</b> (cognitive science, HCI, responsible innovation, computational linguistics). By combining these perspectives on AI—the social, the technical, and the foundational theoretical—I am able to engage critically with new developments in computing in ways that are practical, grounded, and analytically rigorous.
-{style="text-align: justify;"}  -->
+{style="text-align: justify;"} 
 <!-- Aside from a D.Phil. in Computer Science and an M.A. by thesis (140-pages) in Philosophy, I have over six years' experience teaching university courses across computer science, engineering and the humanities. Holding myself accountable to the standards of rigour of multiple disciplines has helped me appreciate how important, but tricky it is for researchers in AI to bridge relevant domains and engage with ethics in ways that do not merely pay lip service. As a fast-changing area with few established guidelines, it requires continuous critical reflection; fast skill and knowledge acquisition; multi-perspectival evaluation; and creative reimagining. My research lies this intersection.
 {style="text-align: justify;"}  -->
 
