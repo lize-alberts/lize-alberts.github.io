@@ -131,12 +131,11 @@ I am a doctoral candidate in Computer Science at the <a href="https://www.cs.ox.
 https://doi.org/10.48550/arXiv.2401.09082">Google</a>, I recently led a project on the ethics and evaluation of agentic generative AI. I'm also <a href="https://www0.sun.ac.za/philosophy/centre-for-applied-ethics/unit-for-the-ethics-of-technology/unit-for-the-ethics-of-technology-staff-2/">Research Fellow</a> at the Unit for the Ethics of Technology. My DPhil is funded by a scholarship awarded by Oxford’s <a href="https://www.rti.ox.ac.uk/people/">Responsible Technology Institute</a>.
 {style="text-align: justify;"}
 
-I have rare expertise across <b>STEM</b> (computer science), the <b>humanities</b> (philosophy, linguistics, practical ethics), the <b>social sciences</b> (quantitative & qualitative research, behavioural psychology, social anthropology), and <b>interdisciplinary fields</b> (cognitive science, HCI, responsible innovation, computational linguistics). 
+My educational background spans <b>computer science</b>, the <b>humanities</b> (philosophy, linguistics, practical ethics), the <b>social sciences</b> (quantitative & qualitative research, behavioural psychology, social anthropology), and <b>interdisciplinary fields surrounding AI</b> (cognitive science, HCI, responsible innovation, computational linguistics). 
+{style="text-align: justify;"} 
 
-By combining these perspectives on AI – the social, the technical, and the foundational theoretical – I am able to engage critically with new developments in computing in ways that are practical, grounded, and analytically rigorous.
+By combining these perspectives – the social, technical, conceptual, and theoretical – I engage critically with developments in AI in ways that remain practical, grounded, and analytically rigorous.
 {style="text-align: justify;"} 
 <!-- Aside from a D.Phil. in Computer Science and an M.A. by thesis (140-pages) in Philosophy, I have over six years' experience teaching university courses across computer science, engineering and the humanities. Holding myself accountable to the standards of rigour of multiple disciplines has helped me appreciate how important, but tricky it is for researchers in AI to bridge relevant domains and engage with ethics in ways that do not merely pay lip service. As a fast-changing area with few established guidelines, it requires continuous critical reflection; fast skill and knowledge acquisition; multi-perspectival evaluation; and creative reimagining. My research lies this intersection.
 {style="text-align: justify;"}  -->
-
-My name rhymes with geezer.
 
