@@ -127,15 +127,15 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a doctoral candidate in Computer Science at the 
-    <a href="https://www.cs.ox.ac.uk/people/lize.alberts/">University of Oxford</a>, where I work on human-AI interaction. As a Student Researcher at 
+I am a fourth-year doctoral candidate in Computer Science at the 
+    <a href="https://www.cs.ox.ac.uk/people/lize.alberts/">University of Oxford</a>, focusing on human-AI interaction. As a Student Researcher at 
     <a href="https://doi.org/10.48550/arXiv.2401.09082">Google</a>, I recently led a project developing a framework for agentic LLM evaluation. I am also a 
     <a href="https://www0.sun.ac.za/philosophy/centre-for-applied-ethics/unit-for-the-ethics-of-technology/unit-for-the-ethics-of-technology-staff-2/">Research Fellow</a> 
     at the Unit for the Ethics of Technology at Stellenbosch University. My DPhil is funded by a scholarship from the
     <a href="https://www.rti.ox.ac.uk/people/">Responsible Technology Institute</a>.
 {style="text-align: justify;"}
 
-With a strong multi-disciplinary background, I work at the intersection of computer science, philosophy, linguistics, interaction design, empirical HCI, cognitive science, and behavioural psychology. My research master's focused on embodied cognition and multimodal grounded language learning for AI, whereas my BA(Hons) focused on computational linguistics. For my undergraduate studies, I completed two degrees simultaneously, with four majors and eight minors, receiving several awards for best academic achievement.
+With a strong multi-disciplinary background, I work at the intersection of computer science, philosophy, linguistics, design, empirical HCI, cognitive science, and behavioural psychology. My research master's focused on embodied cognition and multimodal grounded language learning for AI, whereas my BA(Hons) focused on computational linguistics. For my undergraduate studies, I completed two degrees simultaneously, with four majors and eight minors, receiving several awards for best academic achievement.
 {style="text-align: justify;"} 
 
 By integrating these diverse perspectives—social, technical, conceptual, and theoretical—I critically engage with AI developments in ways that are practical, grounded, and analytically rigorous.
