@@ -75,6 +75,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Leader of Masterclass in Computer Science
+          company: Royal Institution
+          company_url: 'https://www.rigb.org/learning/ri-masterclasses'
+          company_logo: RI
+          location: Oxford, UK
+          date_start: '2023-03-17'
+          # date_end: '2024-03-18'
+          description: I designed a Royal Institution Masterclass on Dark Patterns that I lead annually at the University of Oxford.
         - title: Student Researcher
           company: Google
           company_url: 'https://about.google/'
@@ -83,15 +91,15 @@ sections:
           date_start: '2023-07-15'
           date_end: '2023-10-15'
           description: |2-
-              I worked for three months as a student researcher in the Cerebra team at Google. I led a project critically evaluating current alignment approaches and frameworks for Large Language Models (LLMs), and proposed a novel ethical framework centred on duties of respectful treatment in interaction.
-        - title: Leader of Masterclass in Computer Science
-          company: Royal Institution
-          company_url: 'https://www.rigb.org/learning/ri-masterclasses'
-          company_logo: RI
+              I worked for three months as a student researcher in the Cerebra team at Google. I led a project on the evaluation of agentic Large Language Models (LLMs), and proposed a novel ethical framework centred on duties of respectful treatment in interaction.
+        - title: Student Ambassador
+          company: Jesus College, The University of Oxford
+          company_url: 'https://www.jesus.ox.ac.uk/'
+          company_logo: JC
           location: Oxford, UK
-          date_start: '2023-03-17'
-          date_end: '2024-03-18'
-          description: I designed a Royal Institution Masterclass on Dark Patterns in interaction design for year 11 students, which I lead annually at the University of Oxford.
+          date_start: '2024-04-01'
+          date_end: '2024-06-30'
+          description: I was asked to design and lead a computer science workshop for Welsh state schoolchildren for Jesus College's annual Women in Sciences Day.
         - title: Graduate Research Assistant & Teaching Assistant
           company: University of Oxford
           company_url: 'https://www.cs.ox.ac.uk/'

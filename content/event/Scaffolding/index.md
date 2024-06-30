@@ -12,7 +12,7 @@ address:
   postcode: 4041
   country: South Africa
 
-summary: "I was invited to share my insights and discuss the connections between dark patterns and the concept of hostile scaffolding."
+summary: "I was invited to present on my research and discuss dark patterns as a form of hostile cognitive scaffolding."
 # abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.

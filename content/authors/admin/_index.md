@@ -32,25 +32,25 @@ bio: DPhil candidate in Computer Science at the University of Oxford and Researc
 # Interests to show in About widget
 interests:
   - Human-centred AI
-  - LLM alignment & evaluation
+  - LLM evaluation
+  - Interaction/behavioural design ethics
   - Cognitive & computational linguistics
   - The philosophy of cognition
-  - Interactional/behavioural design ethics
   - Wellbeing-supportive technologies
 
 # Education to show in About widget
 education:
   courses:
-    - course: D.Phil. in Computer Science - developing a novel theoretical framework for agentic AI evaluation
+    - course: D.Phil. in Computer Science, finalising
       institution: University of Oxford
       # year: 2024
-    - course: M.A. by thesis in Philosophy (Distinction, 84%) - focus on embodied cognition & cognitively inspired AI
+    - course: M.A. by Thesis in Philosophy (Distinction, 84%)
       institution: Stellenbosch University
       year: 2020
     - course: B.A. Hons. in Philosophy (Distinction, 82%)
       institution: Stellenbosch University
       year: 2019
-    - course: B.A. in Humanities (Distinction, Top of Class, 82%) - took twice the required subjects
+    - course: B.A. in Humanities (Distinction, 82%)
       institution: North-West University
       year: 2018
 
@@ -127,14 +127,18 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a doctoral candidate in Computer Science at the <a href="https://www.cs.ox.ac.uk/people/lize.alberts/">University of Oxford</a>, in the Human-Centred Artificial Intelligence (HCAI) group. As a Student Researcher at <a href="
-https://doi.org/10.48550/arXiv.2401.09082">Google</a>, I recently led a project on the ethics and evaluation of agentic generative AI. I'm also <a href="https://www0.sun.ac.za/philosophy/centre-for-applied-ethics/unit-for-the-ethics-of-technology/unit-for-the-ethics-of-technology-staff-2/">Research Fellow</a> at the Unit for the Ethics of Technology. My DPhil is funded by a scholarship awarded by Oxford’s <a href="https://www.rti.ox.ac.uk/people/">Responsible Technology Institute</a>.
+I am a doctoral candidate in Computer Science at the 
+    <a href="https://www.cs.ox.ac.uk/people/lize.alberts/">University of Oxford</a>, where I work on human-AI interaction. As a Student Researcher at 
+    <a href="https://doi.org/10.48550/arXiv.2401.09082">Google</a>, I led a project developing a novel theoretical framework for agentic LLM evaluation. I am also a 
+    <a href="https://www0.sun.ac.za/philosophy/centre-for-applied-ethics/unit-for-the-ethics-of-technology/unit-for-the-ethics-of-technology-staff-2/">Research Fellow</a> 
+    at the Unit for the Ethics of Technology at Stellenbosch University. My DPhil is funded by a scholarship from the
+    <a href="https://www.rti.ox.ac.uk/people/">Responsible Technology Institute</a>.
 {style="text-align: justify;"}
 
-My educational background spans <b>computer science</b>, the <b>humanities</b> (philosophy, linguistics, practical ethics), the <b>social sciences</b> (quantitative & qualitative research, behavioural psychology, social anthropology), and <b>interdisciplinary fields surrounding AI</b> (cognitive science, HCI, responsible innovation, computational linguistics). 
+With a strong multi-disciplinary background, I work at the intersection of computer science, philosophy, linguistics, interaction design, empirical HCI, cognitive science, and behavioural psychology. My research master's focused on embodied cognition and multimodal grounded language learning for AI, whereas my BA(Hons) focused on computational linguistics. For my undergraduate studies, I completed two degrees simultaneously, with four majors and eight minors, receiving several awards for best academic achievement.
 {style="text-align: justify;"} 
 
-By combining these perspectives – the social, technical, conceptual, and theoretical – I engage critically with developments in AI in ways that remain practical, grounded, and analytically rigorous.
+By integrating these diverse perspectives—social, technical, conceptual, and theoretical—I critically engage with AI developments in ways that are practical, grounded, and analytically rigorous.
 {style="text-align: justify;"} 
 
 <!-- Aside from a D.Phil. in Computer Science and an M.A. by thesis (140-pages) in Philosophy, I have over six years' experience teaching university courses across computer science, engineering and the humanities. Holding myself accountable to the standards of rigour of multiple disciplines has helped me appreciate how important, but tricky it is for researchers in AI to bridge relevant domains and engage with ethics in ways that do not merely pay lip service. As a fast-changing area with few established guidelines, it requires continuous critical reflection; fast skill and knowledge acquisition; multi-perspectival evaluation; and creative reimagining. My research lies this intersection.
