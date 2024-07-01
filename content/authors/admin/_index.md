@@ -135,7 +135,7 @@ I am a fourth-year doctoral candidate in Computer Science at the
     <a href="https://www.rti.ox.ac.uk/people/">Responsible Technology Institute</a>.
 {style="text-align: justify;"}
 
-With a strong multi-disciplinary background, I work at the intersection of computer science, philosophy, linguistics, design, empirical HCI, cognitive science, and behavioural psychology. My research master's focused on embodied cognition and multimodal grounded language learning for AI, whereas my BA(Hons) focused on computational linguistics. For my undergraduate studies, I completed two degrees simultaneously, with four majors and eight minors, receiving several awards for best academic achievement.
+With a unique cross-disciplinary background, I work at the intersection of computer science, philosophy, linguistics, design, empirical HCI, cognitive science, and behavioural psychology. My research master's focused on embodied cognition and multimodal grounded language learning for AI, whereas my BA(Hons) focused on computational linguistics. For my undergraduate studies, I obtained the credits for two degrees simultaneously, with four majors and eight minors across the humanities and social sciences, receiving several awards for best academic achievement.
 {style="text-align: justify;"} 
 
 By integrating these diverse perspectives—social, technical, conceptual, and theoretical—I critically engage with AI developments in ways that are practical, grounded, and analytically rigorous.
