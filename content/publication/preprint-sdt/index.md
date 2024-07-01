@@ -17,8 +17,8 @@ publishDate: "2024-01-31"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Accepted for review at *Interacting with Computers: Special Issue on Self-Determination Theory in HCI*. arXiv:2402.00121 [cs.HC]"
-publication_short: "Accepted for review at *Interacting with Computers: Special Issue on Self-Determination Theory in HCI*. arXiv:2402.00121 [cs.HC]"
+publication: "Accepted at *Interacting with Computers: Special Issue on Self-Determination Theory in HCI*. arXiv:2402.00121 [cs.HC]"
+publication_short: "Accepted at *Interacting with Computers: Special Issue on Self-Determination Theory in HCI*. arXiv:2402.00121 [cs.HC]"
 
 # Publication name and optional abbreviated publication name.
 # publication: "Computers as Bad Social Actors: Dark Patterns and Anti-Patterns in Interfaces that Act Socially"
