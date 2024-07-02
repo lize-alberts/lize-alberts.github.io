@@ -116,7 +116,7 @@ social:
   #   link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/lize-alberts-5a2097159
+    link: https://www.linkedin.com/in/lize-alberts-5a2097159/
   - icon: cv
     icon_pack: ai
     link: resume.pdf
