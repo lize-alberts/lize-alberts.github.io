@@ -1,6 +1,6 @@
 ---
 
-title: "Should agentic conversational AI change how we think about ethics? Characterising an interactional ethics centred on respect"
+title: "Should Agentic Conversational AI Change How We Think About Ethics? Characterising an Interactional Ethics Centred on Respect"
 authors: 
 - admin
 - Geoff Keeling
