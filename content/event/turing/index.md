@@ -1,5 +1,5 @@
 ---
-title: Participant in the Alan Turing Institute's Women in AI Security Workshop
+title: The Alan Turing Institute's Women in AI Security Workshop
 
 event: The Alan Turing Institute's Women in AI Security Workshop
 # event_url: https://roseguingrich.com/computers-as-bad-social-actors/

@@ -1,5 +1,5 @@
 ---
-title: Panellist on "Dark Patterns As Hostile Scaffolding"
+title: Invited panellist on "Dark Patterns As Hostile Scaffolding"
 
 event: International Scaffolding Bad Working Group Session
 # event_url: https://roseguingrich.com/computers-as-bad-social-actors/

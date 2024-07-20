@@ -1,5 +1,5 @@
 ---
-title: Participant in Linacre College's Committee for Children Workshop
+title: Linacre College's Committee for Children Workshop and Dinner
 
 event: Linacre College's Committee for Children Workshop and Dinner
 # event_url: https://roseguingrich.com/computers-as-bad-social-actors/
