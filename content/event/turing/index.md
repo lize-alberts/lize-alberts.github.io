@@ -12,7 +12,7 @@ address:
   postcode: NW1 2DB
   country: UK
 
-summary: "I contributed to the Alan Turing Institute's Women in AI Security Workshop, consisting of technical talks, a panel, and a discussion session. It showcased prominent female researchers working in AI security, safety, governance, and cyber adjacent fields, bringing together experts across government, academia, and industry"
+summary: "The Women in AI Security Workshop is organised by the Alan Turing Institute's Defence AI Research (DARe) Centre, as part of their work on Vulnerabilities, Deception and Disinformation. The event will showcase prominent female researchers working in AI security, safety, governance, and cyber adjacent fields, bringing together experts across government, academia, and industry."
 # abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
