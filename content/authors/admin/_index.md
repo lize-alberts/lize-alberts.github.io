@@ -129,7 +129,7 @@ highlight_name: true
 ---
 I am a fourth-year doctoral candidate in Computer Science at the 
     <a href="https://www.cs.ox.ac.uk/people/lize.alberts/">University of Oxford</a>, focusing on human-AI interaction. As a Student Researcher at 
-    <a href="https://doi.org/10.48550/arXiv.2401.09082">Google</a>, I recently led a project developing a framework for agentic LLM evaluation. I am also a 
+    <a href="https://doi.org/10.48550/arXiv.2401.09082">Google</a>, I recently led a project on approaching agentic LLM alignment/evaluation and mitigating context-specific harms in human-agent interaction. I am also a 
     <a href="https://www0.sun.ac.za/philosophy/centre-for-applied-ethics/unit-for-the-ethics-of-technology/unit-for-the-ethics-of-technology-staff-2/">Research Fellow</a> 
     at the Unit for the Ethics of Technology at Stellenbosch University. My DPhil is funded by a scholarship from the
     <a href="https://www.rti.ox.ac.uk/people/">Responsible Technology Institute</a>.
