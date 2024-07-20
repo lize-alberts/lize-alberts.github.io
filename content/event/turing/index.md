@@ -1,7 +1,7 @@
 ---
-title: Participant in Linacre College's Committee for Children Workshop
+title: Participant in the Alan Turing Institute's Women in AI Security Workshop
 
-event: Linacre College's Committee for Children Workshop and Dinner
+event: The Alan Turing Institute's Women in AI Security Workshop
 # event_url: https://roseguingrich.com/computers-as-bad-social-actors/
 
 location: The Alan Turing Institute
@@ -12,7 +12,7 @@ address:
   postcode: NW1 2DB
   country: UK
 
-summary: "I participated in the Alan Turing Institute's Women in AI Security workshop, consisting of excercises, talks, and panel discussions alongside experts from industry and academia."
+summary: "I contributed to the Alan Turing Institute's Women in AI Security Workshop, consisting of technical talks, a panel, and a discussion session. It showcased prominent female researchers working in AI security, safety, governance, and cyber adjacent fields, bringing together experts across government, academia, and industry"
 # abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
