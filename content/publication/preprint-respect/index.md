@@ -17,8 +17,8 @@ publishDate: "2024-05-16"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Under review at *AAAI Conference on AI, Ethics, and Society (AIES)*. arXiv:2401.09082v2 [cs.CL]"
-publication_short: "Under review at *AAAI Conference on AI, Ethics, and Society (AIES)*.	arXiv:2401.09082v2 [cs.CL]"
+publication: "arXiv:2401.09082v2 [cs.CL]"
+publication_short: "arXiv:2401.09082v2 [cs.CL]"
 
 # Publication name and optional abbreviated publication name.
 # publication: "Computers as Bad Social Actors: Dark Patterns and Anti-Patterns in Interfaces that Act Socially"
