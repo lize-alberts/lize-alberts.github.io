@@ -3,11 +3,12 @@
 title: "Beyond Interaction: Investigating the Appropriateness of Human-AI Assistant Relationships"
 authors: 
 - Arianna Manzini
-- Iason Gabriel
-- Meredith Ringel Morris
-- admin 
 - Geoff Keeling
+- admin 
 - Shannon Vallor
+- Meredith Ringel Morris
+- Iason Gabriel
+
 date: "2024"
 # doi: "https://doi.org/10.48550/arXiv.2302.04720"
 
