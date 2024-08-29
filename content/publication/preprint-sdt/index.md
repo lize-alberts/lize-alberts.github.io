@@ -44,7 +44,7 @@ featured: false
 
 links:
 - name: DOI
-  url: https://doi.org/10.48550/arXiv.2402.00121
+  url: https://doi.org/10.1093/iwc/iwae040
 url_pdf: https://arxiv.org/pdf/2402.00121.pdf
 
 
