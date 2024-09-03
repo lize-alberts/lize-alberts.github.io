@@ -9,7 +9,7 @@ date: "2024"
 # doi: "https://doi.org/10.48550/arXiv.2302.04720"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-01-31"
+publishDate: "2024-09-23"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,8 +17,8 @@ publishDate: "2024-01-31"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Accepted at *Interacting with Computers: Special Issue on Self-Determination Theory in HCI*. arXiv:2402.00121 [cs.HC]"
-publication_short: "Accepted at *Interacting with Computers: Special Issue on Self-Determination Theory in HCI*. arXiv:2402.00121 [cs.HC]"
+publication: "Accepted at *Interacting with Computers: Special Issue on Self-Determination Theory in HCI*. https://doi.org/10.1093/iwc/iwae040"
+publication_short: "Accepted at *Interacting with Computers: Special Issue on Self-Determination Theory in HCI*. https://doi.org/10.1093/iwc/iwae040"
 
 # Publication name and optional abbreviated publication name.
 # publication: "Computers as Bad Social Actors: Dark Patterns and Anti-Patterns in Interfaces that Act Socially"
