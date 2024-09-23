@@ -31,12 +31,12 @@ bio: DPhil candidate in Computer Science at the University of Oxford and Researc
 
 # Interests to show in About widget
 interests:
-  - Human-centred AI
-  - LLM evaluation
-  - Interaction/behavioural design ethics
-  - Cognitive & computational linguistics
-  - The philosophy of cognition
-  - Wellbeing-supportive technologies
+  - Human-Centred AI
+  - LLM Evaluation & Alignment
+  - Interaction/Behavioural Design Ethics
+  - Cognitive & Computational linguistics
+  - The Philosophy of Mind & Language
+  - Wellbeing-Supportive Technologies
 
 # Education to show in About widget
 education:
@@ -134,7 +134,7 @@ I am a DPhil candidate in Computer Science at the
     at Stellenbosch University's Unit for the Ethics of Technology, and a Research Assistant at Leverhulme Centre for the Future of Intelligence at Cambridge </a>.
 {style="text-align: justify;"}
 
-With a unique multi-disciplinary background, I work at the intersection of computer science, user-centered design, empirical social scientific research, linguistics, philosophy, cognitive science, and behavioural science. By integrating these diverse perspectives—social, technical, conceptual, and theoretical—I work towards responsible AI development in ways that are practical, grounded, and analytically rigorous.
+With a unique multi-disciplinary background, I work at the intersection of computer science, user-centred design, empirical social scientific research, linguistics, philosophy, cognitive science, and behavioural science. By integrating these diverse perspectives—social, technical, conceptual, and theoretical—I work towards responsible AI development in ways that are practical, grounded, and analytically rigorous.
 {style="text-align: justify;"} 
 
 <!-- Aside from a D.Phil. in Computer Science and an M.A. by thesis (140-pages) in Philosophy, I have over six years' experience teaching university courses across computer science, engineering and the humanities. Holding myself accountable to the standards of rigour of multiple disciplines has helped me appreciate how important, but tricky it is for researchers in AI to bridge relevant domains and engage with ethics in ways that do not merely pay lip service. As a fast-changing area with few established guidelines, it requires continuous critical reflection; fast skill and knowledge acquisition; multi-perspectival evaluation; and creative reimagining. My research lies this intersection.
