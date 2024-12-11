@@ -27,7 +27,7 @@ organizations:
     url: https://www0.sun.ac.za/philosophy/centre-for-applied-ethics/unit-for-the-ethics-of-technology/unit-for-the-ethics-of-technology-staff-2/ 
 
 # Short bio (displayed in user profile at end of posts)
-bio: DPhil candidate in Computer Science at the University of Oxford and Research Fellow at Stellenbosch University's Unit for the Ethics of Technology.
+bio: DPhil candidate in Computer Science at the University of Oxford | Research Assistant at the Leverhulme Centre for the Future of Intelligence | Research Fellow at Stellenbosch University's Unit for the Ethics of Technology
 
 # Interests to show in About widget
 interests:
@@ -128,13 +128,13 @@ social:
 highlight_name: true
 ---
 I am a DPhil candidate in Computer Science at the 
-    <a href="https://www.cs.ox.ac.uk/people/lize.alberts/">University of Oxford</a>, focusing on constructive and respectful human-AI interaction. As Student Researcher at 
-    <a href="https://doi.org/10.48550/arXiv.2401.09082">Google</a>, I led a project on agentic LLM evaluation and personalised (context-sensitive) alignment. I am also a
+    <a href="https://www.cs.ox.ac.uk/people/lize.alberts/">University of Oxford</a>, focusing on constructive human-AI interaction. As Student Researcher at 
+    <a href="https://doi.org/10.48550/arXiv.2401.09082">Google</a>, I led a project on agentic LLM evaluation and personalised alignment. I am also a
     <a href="https://www0.sun.ac.za/philosophy/centre-for-applied-ethics/unit-for-the-ethics-of-technology/unit-for-the-ethics-of-technology-staff-2/">Research Fellow</a> 
     at Stellenbosch University's Unit for the Ethics of Technology, and a Research Assistant at Leverhulme Centre for the Future of Intelligence at Cambridge </a>.
 {style="text-align: justify;"}
 
-With a unique multi-disciplinary background, I work at the intersection of computer science, user-centred design, empirical social scientific research, linguistics, philosophy, cognitive science, and behavioural science. By integrating these diverse perspectives—social, technical, conceptual, and theoretical—I work towards responsible AI development in ways that are practical, grounded, and analytically rigorous.
+With a unique multi-disciplinary background, I work at the intersection of computer science, user-centred design, linguistics, philosophy, cognitive science, behavioural science, and the social sciences. By integrating these diverse perspectives—social, technical, conceptual, and theoretical—I work towards responsible AI development in ways that are both critical and practical.
 {style="text-align: justify;"} 
 
 <!-- Aside from a D.Phil. in Computer Science and an M.A. by thesis (140-pages) in Philosophy, I have over six years' experience teaching university courses across computer science, engineering and the humanities. Holding myself accountable to the standards of rigour of multiple disciplines has helped me appreciate how important, but tricky it is for researchers in AI to bridge relevant domains and engage with ethics in ways that do not merely pay lip service. As a fast-changing area with few established guidelines, it requires continuous critical reflection; fast skill and knowledge acquisition; multi-perspectival evaluation; and creative reimagining. My research lies this intersection.
