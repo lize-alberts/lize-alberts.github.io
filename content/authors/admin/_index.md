@@ -17,7 +17,7 @@ last_name: Alberts
 superuser: true
 
 # Role/position/tagline
-role: Doctoral Candidate, Research Fellow
+role: Doctoral Candidate | Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
