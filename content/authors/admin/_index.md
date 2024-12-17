@@ -35,15 +35,15 @@ bio: DPhil candidate in Computer Science at the University of Oxford | Research 
 interests:
   - Human-Centred AI
   - LLM Evaluation & Alignment
+  - Philosophy of Cognition & Language
   - Interaction/Behavioural Design Ethics
-  - Cognitive & Computational linguistics
-  - The Philosophy of Mind & Language
+  - Computational Linguistics
   - Wellbeing-Supportive Technologies
 
 # Education to show in About widget
 education:
   courses:
-    - course: D.Phil. in Computer Science, finalising
+    - course: D.Phil. in Computer Science, submitted
       institution: University of Oxford
       # year: 2024
     - course: M.A. by Thesis in Philosophy (Distinction, 84%)
@@ -52,7 +52,7 @@ education:
     - course: B.A. Hons. in Philosophy (Distinction, 82%)
       institution: Stellenbosch University
       year: 2019
-    - course: B.A. in Humanities (Distinction, 82%)
+    - course: B.A. in Humanities (Philosophy and the Social Sciences | History of Art and English) (Distinction, 82%)
       institution: North-West University
       year: 2018
 
@@ -137,6 +137,8 @@ I am a DPhil candidate in Computer Science at the
 {style="text-align: justify;"}
 
 With a unique multi-disciplinary background, my work integrates machine learning, HCI, linguistics, philosophy, cognitive science, behavioural psychology, and the social sciences. Thereby, I contribute to responsible AI development in ways that are at once critical, practical, and analytically rigorous.
+
+In my personal life, I am an artist and poet, and care deeply about understanding people and protecting the environment.
 {style="text-align: justify;"} 
 
 <!-- Aside from a D.Phil. in Computer Science and an M.A. by thesis (140-pages) in Philosophy, I have over six years' experience teaching university courses across computer science, engineering and the humanities. Holding myself accountable to the standards of rigour of multiple disciplines has helped me appreciate how important, but tricky it is for researchers in AI to bridge relevant domains and engage with ethics in ways that do not merely pay lip service. As a fast-changing area with few established guidelines, it requires continuous critical reflection; fast skill and knowledge acquisition; multi-perspectival evaluation; and creative reimagining. My research lies this intersection.
