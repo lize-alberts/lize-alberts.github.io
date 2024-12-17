@@ -18,8 +18,9 @@ publishDate: "2024-12-17"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arXiv:2410.21159v1 [cs.HC]"
-publication_short: "arXiv:2410.21159v1 [cs.HC]"
+publication: "*Submitted to the International Conference on Learning Representations (ICLR) 2025*"
+publication_short: "*Submitted to the International Conference on Learning Representations (ICLR) 2025*"
+
 
 # Publication name and optional abbreviated publication name.
 # publication: "Computers as Bad Social Actors: Dark Patterns and Anti-Patterns in Interfaces that Act Socially"
