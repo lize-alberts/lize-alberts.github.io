@@ -75,7 +75,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Research and Editorial Assistant
+        - title: Research & Editorial Assistant
           company: Leverhulme Centre for the Future of Intelligence
           company_url: 'https://www.lcfi.ac.uk/'
           company_logo: goog
