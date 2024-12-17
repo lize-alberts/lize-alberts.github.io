@@ -94,7 +94,7 @@ sections:
         - title: Leader of Masterclass in Computer Science
           company: Royal Institution
           company_url: 'https://www.rigb.org/learning/ri-masterclasses'
-          company_logo: RI
+          company_logo: cfi
           location: Oxford, UK
           date_start: '2023-03-17'
           date_end: '2024-03-18'
