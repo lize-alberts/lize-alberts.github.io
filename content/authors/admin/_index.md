@@ -138,7 +138,7 @@ I am a DPhil candidate in Computer Science at the
 
 With a unique multi-disciplinary background, my work integrates machine learning, HCI, linguistics, philosophy, cognitive science, behavioural psychology, and the social sciences. Thereby, I contribute to responsible AI development in ways that are at once critical, practical, and analytically rigorous.
 
-In my personal life, I am an artist and poet, and care deeply about understanding people and protecting the environment.
+In my personal life, I am an artist and poet, passionate about learning, travelling, and experiencing diverse forms of music, films, and literature. I care deeply about understanding people and protecting the environment.
 {style="text-align: justify;"} 
 
 <!-- Aside from a D.Phil. in Computer Science and an M.A. by thesis (140-pages) in Philosophy, I have over six years' experience teaching university courses across computer science, engineering and the humanities. Holding myself accountable to the standards of rigour of multiple disciplines has helped me appreciate how important, but tricky it is for researchers in AI to bridge relevant domains and engage with ethics in ways that do not merely pay lip service. As a fast-changing area with few established guidelines, it requires continuous critical reflection; fast skill and knowledge acquisition; multi-perspectival evaluation; and creative reimagining. My research lies this intersection.
