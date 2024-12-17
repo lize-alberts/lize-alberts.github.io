@@ -90,7 +90,7 @@ sections:
           company_logo: goog
           location: London, UK
           date_start: '2023-07-15'
-          date_end: '2023-10-15'
+          date_end: '2023-10-20'
           description: |2-
           I worked for three months as a student researcher in the Cerebra team at Google. I led a project on the evaluation of agentic Large Language Models (LLMs), and proposed a novel ethical framework centred on duties of respectful treatment in interaction.
         - title: Leader of Masterclass in Computer Science
