@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: Bio
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   # - block: skills
@@ -78,10 +78,10 @@ sections:
         - title: Research & Editorial Assistant
           company: Leverhulme Centre for the Future of Intelligence
           company_url: 'https://www.lcfi.ac.uk/'
-          company_logo: goog
+          company_logo: cfi
           location: Cambridge, UK
           date_start: '2024-09-30'
-          # date_end: '2023-10-15'
+          date_end: 
           description: I am a Research and Editorial Assistant to the director of CFI, Dr. Stephen Cave. My role includes proofreading and copyediting manuscripts, conducting literature reviews, and contacting prospective authors for a bookseries on AI.
         - title: Student Researcher
           company: Google
