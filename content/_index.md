@@ -82,7 +82,8 @@ sections:
           location: Cambridge, UK
           date_start: '2024-09-30'
           # date_end: '2023-10-15'
-          description: I am a Research and Editorial Assistant to the director of CFI, Dr. Stephen Cave. My role includes proofreading and copyediting manuscripts, conducting literature reviews, and contacting prospective authors for a bookseries on AI.
+          description: |2-
+          I am a Research and Editorial Assistant to the director of CFI, Dr. Stephen Cave. My role includes proofreading and copyediting manuscripts, conducting literature reviews, and contacting prospective authors for a bookseries on AI.
         - title: Student Researcher
           company: Google
           company_url: 'https://about.google/'
@@ -90,7 +91,8 @@ sections:
           location: London, UK
           date_start: '2023-07-15'
           date_end: '2023-10-15'
-          description: I worked for three months as a student researcher in the Cerebra team at Google. I led a project on the evaluation of agentic Large Language Models (LLMs), and proposed a novel ethical framework centred on duties of respectful treatment in interaction.
+          description: |2-
+          I worked for three months as a student researcher in the Cerebra team at Google. I led a project on the evaluation of agentic Large Language Models (LLMs), and proposed a novel ethical framework centred on duties of respectful treatment in interaction.
         - title: Leader of Masterclass in Computer Science
           company: Royal Institution
           company_url: 'https://www.rigb.org/learning/ri-masterclasses'
@@ -114,7 +116,8 @@ sections:
           location: Oxford, UK
           date_start: '2020-04-05'
           date_end: '2022-11-19'
-          description: I worked as an RA for the EPSRC-funded RoboTIPS project taking a Responsible Innovation approach to the research and development of social robots. I also helped teach two Software Engineering courses (Interaction Design, Requirements Engineering) and two Computer Science courses (Ethical Computing in Practice, Ethics and Responsible Innovation).
+          description: |2-
+          I worked as an RA for the EPSRC-funded RoboTIPS project taking a Responsible Innovation approach to the research and development of social robots. I also helped teach two Software Engineering courses (Interaction Design, Requirements Engineering) and two Computer Science courses (Ethical Computing in Practice, Ethics and Responsible Innovation).
         - title: Co-founder of RTI Student Network
           company: Responsible Technology Institute
           company_url: 'https://www.rti.ox.ac.uk/student-network/'
@@ -122,7 +125,8 @@ sections:
           location: Oxford, UK
           date_start: '2020-11-15'
           date_end: '2024-01-15'
-          description: The RTI is an international centre of excellence on responsible technology. I co-founded its international student network connecting researchers interested in topics related to responsible innovation. I help to organise reading groups, expert panel discussions, and work-in-progress seminars.
+          description: |2-
+          The RTI is an international centre of excellence on responsible technology. I co-founded its international student network connecting researchers interested in topics related to responsible innovation. I helped organise reading groups, expert panel discussions, and work-in-progress seminars.
         - title: Lecturer & Teaching Assistant
           company: Stellenbosch University
           company_url: 'https://www0.sun.ac.za/philosophy/'
