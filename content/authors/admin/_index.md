@@ -134,11 +134,7 @@ I am a DPhil candidate in Computer Science at the
     at Stellenbosch University's Unit for the Ethics of Technology, and a Research/Editorial Assistant at the <a href="https://www.lcfi.ac.uk/">Leverhulme Centre for the Future of Intelligence</a> at the University of Cambridge.
 {style="text-align: justify;"}
 
-<<<<<<< HEAD
-With a unique multi-disciplinary background, my work integrates computer science, user-centred design, linguistics, philosophy, cognitive science, behavioural psychology, and the social sciences. Thereby, I contribute to the responsible development of AI in ways that are at once critical, practical, and analytically rigorous.
-=======
-With a unique multi-disciplinary background, I work at the intersection of computer science, user-centred design, linguistics, philosophy, cognitive science, behavioural science, and the social sciences. By integrating these diverse perspectives—social, technical, conceptual, and theoretical—I contribute to responsible AI research in ways that are both critical and practical.
->>>>>>> 9ca1c25 (avatar and bio)
+With a unique multi-disciplinary background, I work at the intersection of computer science, user-centred design, linguistics, philosophy, cognitive science, behavioural psychology, and the social sciences. Thereby, I contribute to responsible AI development in ways that are at once critical, practical, and analytically rigorous.
 {style="text-align: justify;"} 
 
 <!-- Aside from a D.Phil. in Computer Science and an M.A. by thesis (140-pages) in Philosophy, I have over six years' experience teaching university courses across computer science, engineering and the humanities. Holding myself accountable to the standards of rigour of multiple disciplines has helped me appreciate how important, but tricky it is for researchers in AI to bridge relevant domains and engage with ethics in ways that do not merely pay lip service. As a fast-changing area with few established guidelines, it requires continuous critical reflection; fast skill and knowledge acquisition; multi-perspectival evaluation; and creative reimagining. My research lies this intersection.
