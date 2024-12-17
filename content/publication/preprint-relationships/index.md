@@ -46,7 +46,7 @@ featured: false
 # links:
 - name: DOI
   url: https://doi.org/10.1609/aies.v7i1.31694
- url_pdf: https://ojs.aaai.org/index.php/AIES/article/view/31694/33861
+url_pdf: https://ojs.aaai.org/index.php/AIES/article/view/31694/33861
 
 
 # Featured image
