@@ -1,6 +1,6 @@
 ---
 
-title: "Beyond Interaction: Investigating the Appropriateness of Human-AI Assistant Relationships"
+title: "The Code That Binds Us: Navigating the Appropriateness of Human-AI Assistant Relationships"
 authors: 
 - Arianna Manzini
 - Geoff Keeling
@@ -21,8 +21,8 @@ publishDate: "2024-05-16"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Accepted at *AAAI Conference on AI, Ethics, and Society (AIES)*"
-publication_short: "Accepted at *AAAI Conference on AI, Ethics, and Society (AIES)*"
+publication: "*Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (AIES)*, 7(1), 943-957. https://doi.org/10.1609/aies.v7i1.31694"
+publication_short: "*Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (AIES)*, 7(1), 943-957. https://doi.org/10.1609/aies.v7i1.31694"
 
 # Publication name and optional abbreviated publication name.
 # publication: "Computers as Bad Social Actors: Dark Patterns and Anti-Patterns in Interfaces that Act Socially"
@@ -44,9 +44,9 @@ tags:
 featured: false
 
 # links:
-# - name: DOI
-#   url: https://doi.org/10.48550/arXiv.2401.09082
-# url_pdf: https://arxiv.org/pdf/2401.09082
+- name: DOI
+  url: https://doi.org/10.1609/aies.v7i1.31694
+ url_pdf: https://ojs.aaai.org/index.php/AIES/article/view/31694/33861
 
 
 # Featured image
