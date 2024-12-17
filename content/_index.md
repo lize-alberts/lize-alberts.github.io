@@ -75,6 +75,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Research and Editorial Assistant
+          company: Leverhulme Centre for the Future of Intelligence
+          company_url: 'https://www.lcfi.ac.uk/'
+          company_logo: goog
+          location: Cambridge, UK
+          date_start: '2024-09-30'
+          # date_end: '2023-10-15'
+          description: I am a Research and Editorial Assistant to the director of CFI, Dr. Stephen Cave. My role includes proofreading and copyediting manuscripts, conducting literature reviews, and contacting prospective authors for a bookseries on AI.
+        - title: Student Researcher
+          company: Google
+          company_url: 'https://about.google/'
+          company_logo: goog
+          location: London, UK
+          date_start: '2023-07-15'
+          date_end: '2023-10-15'
+          description: I worked for three months as a student researcher in the Cerebra team at Google. I led a project on the evaluation of agentic Large Language Models (LLMs), and proposed a novel ethical framework centred on duties of respectful treatment in interaction.
         - title: Leader of Masterclass in Computer Science
           company: Royal Institution
           company_url: 'https://www.rigb.org/learning/ri-masterclasses'
@@ -83,15 +99,6 @@ sections:
           date_start: '2023-03-17'
           # date_end: '2024-03-18'
           description: I designed a Royal Institution Masterclass on Dark Patterns that I lead annually at the University of Oxford.
-        - title: Student Researcher
-          company: Google
-          company_url: 'https://about.google/'
-          company_logo: goog
-          location: London, UK
-          date_start: '2023-07-15'
-          date_end: '2023-10-15'
-          description: |2-
-              I worked for three months as a student researcher in the Cerebra team at Google. I led a project on the evaluation of agentic Large Language Models (LLMs), and proposed a novel ethical framework centred on duties of respectful treatment in interaction.
         - title: Student Ambassador
           company: Jesus College, The University of Oxford
           company_url: 'https://www.jesus.ox.ac.uk/'
