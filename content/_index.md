@@ -97,7 +97,7 @@ sections:
           company_logo: RI
           location: Oxford, UK
           date_start: '2023-03-17'
-          # date_end: '2024-03-18'
+          date_end: '2024-03-18'
           description: I designed a Royal Institution Masterclass on Dark Patterns that I lead annually at the University of Oxford.
         - title: Student Ambassador
           company: Jesus College, The University of Oxford
