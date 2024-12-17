@@ -18,8 +18,8 @@ publishDate: "2024-12-17"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Submitted to *the International Conference on Learning Representations (ICLR) 2025* arXiv:2410.21159v1 [cs.HC]"
-publication_short: "*Submitted to *the International Conference on Learning Representations (ICLR) 2025* arXiv:2410.21159v1 [cs.HC]"
+publication: "Submitted to *the International Conference on Learning Representations (ICLR)* arXiv:2410.21159v1 [cs.HC]"
+publication_short: "Submitted to *the International Conference on Learning Representations (ICLR)* arXiv:2410.21159v1 [cs.HC]"
 
 
 # Publication name and optional abbreviated publication name.
