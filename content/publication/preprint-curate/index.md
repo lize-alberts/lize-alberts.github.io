@@ -1,15 +1,16 @@
 ---
 
-title: "Should Agentic Conversational AI Change How We Think About Ethics? Characterising an Interactional Ethics Centred on Respect"
+title: "CURATe: Benchmarking Personalised Alignment of Conversational AI Assistants"
 authors: 
 - admin
-- Geoff Keeling
-- Amanda McCroskery
+- Benjamin Ellis
+- Andrei Lupu
+- Jakob Foerster
 date: "2024"
 # doi: "https://doi.org/10.48550/arXiv.2302.04720"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-05-16"
+publishDate: "2024-12-17"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,35 +18,34 @@ publishDate: "2024-05-16"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arXiv:2401.09082v2 [cs.CL]"
-publication_short: "arXiv:2401.09082v2 [cs.CL]"
+publication: "arXiv:2410.21159v1 [cs.HC]"
+publication_short: "arXiv:2410.21159v1 [cs.HC]"
 
 # Publication name and optional abbreviated publication name.
 # publication: "Computers as Bad Social Actors: Dark Patterns and Anti-Patterns in Interfaces that Act Socially"
 # publication_short: "Computers as Bad Social Actors"
-abstract: With the growing popularity of conversational agents based on large language models (LLMs), we need to ensure their behaviour is ethical and appropriate. Work in this area largely centres around the 'HHH’ criteria - making outputs more helpful and honest, and avoiding harmful (biased, toxic, or inaccurate) statements. Whilst this semantic focus isu seful when viewing LLM agents as mere mediums or output-generating systems, it fails to account for pragmatic factors that can make the same speech act seem more or less tactless or inconsiderate in different social situations. With the push towards agentic AI, wherein systems become increasingly proactive in chasing goals and performing actions in the world, considering the pragmatics of interaction becomes essential. We propose an interactional approach to ethics that is centred on relational and situational factors. We explore what it means for a system, as a social actor, to treat an individual respectfully in a (series of) interaction(s). Our work anticipates a set of largely unexplored risks at the level of situated social interaction, and offers practical suggestions to help agentic LLM technologies treat people well.
+abstract: We introduce a multi-turn benchmark for evaluating personalised alignment in LLM-based AI assistants, focusing on their ability to handle user-provided safety-critical contexts. Our assessment of ten leading models across five scenarios (each with 337 use cases) reveals systematic inconsistencies in maintaining user-specific consideration, with even top-rated "harmless" models making recommendations that should be recognised as obviously harmful to the user given the context provided. Key failure modes include inappropriate weighing of conflicting preferences, sycophancy (prioritising user preferences above safety), a lack of attentiveness to critical user information within the context window, and inconsistent application of user-specific knowledge. The same systematic biases were observed in OpenAI's o1, suggesting that strong reasoning capacities do not necessarily transfer to this kind of personalised thinking. We find that prompting LLMs to consider safety-critical context significantly improves performance, unlike a generic 'harmless and helpful' instruction. Based on these findings, we propose research directions for embedding self-reflection capabilities, online user modelling, and dynamic risk assessment in AI assistants. Our work emphasises the need for nuanced, context-aware approaches to alignment in systems designed for persistent human interaction, aiding the development of safe and considerate AI assistants.
 
 
 
 # Summary. An optional shortened abstract.
 
-summary: Until now, our understanding of what it means for generative AI like large language models (LLMs) to behave ethically has mainly considered semantics (e.g., ensuring outputs do not contain any biased, inaccurate, harmful, offensive or toxic language). However, as AI systems start behaving more like social actors—speaking directly to people in natural language, and becoming more proactive in doing so—we believe that the pragmatics of situated social interaction should get more attention. That is, more than thinking about what makes for helpful or harmful language in the abstract, we need to consider what it actually means to treat a person well in an interaction or ongoing relationship. More than just avoiding universal 'harms' like being sexist or misleading, we propose an interactional ethics that is centred on duties of respect, considering how situational, relational and individual factors can make the same speech act seem more or less rude or inconsiderate in different contexts. 
+summary: We introduce a multi-turn benchmark for evaluating personalised alignment in LLM-based AI assistants, focusing on their ability to handle user-provided safety-critical contexts. Our assessment of ten leading models across five scenarios (each with 337 use cases) reveals systematic inconsistencies in maintaining user-specific consideration, with even top-rated "harmless" models making recommendations that should be recognised as obviously harmful to the user given the context provided. Key failure modes include inappropriate weighing of conflicting preferences, sycophancy (prioritising user preferences above safety), a lack of attentiveness to critical user information within the context window, and inconsistent application of user-specific knowledge. The same systematic biases were observed in OpenAI's o1, suggesting that strong reasoning capacities do not necessarily transfer to this kind of personalised thinking. We find that prompting LLMs to consider safety-critical context significantly improves performance, unlike a generic 'harmless and helpful' instruction. Based on these findings, we propose research directions for embedding self-reflection capabilities, online user modelling, and dynamic risk assessment in AI assistants. Our work emphasises the need for nuanced, context-aware approaches to alignment in systems designed for persistent human interaction, aiding the development of safe and considerate AI assistants. 
 
 tags:
-- Large Language Model Ethics and Evaluation
+- Large Language Model Benchmark
 - Conversational Agents
-- Social Interactional Harms
-- Respect
-- Interactional Ethics
-- Self-Determination Theory
-- The Ethics of Care
+- Personalised Alignment
+- Agentic AI Assistants
+- Context-Sensitive Recommendations
+- AI Safety
 
 featured: false
 
 links:
 - name: DOI
-  url: https://doi.org/10.48550/arXiv.2401.09082
-url_pdf: https://arxiv.org/pdf/2401.09082
+  url: https://doi.org/10.48550/arXiv.2410.21159
+url_pdf: https://arxiv.org/pdf/2410.21159
 
 
 # Featured image
