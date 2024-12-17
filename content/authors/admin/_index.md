@@ -137,6 +137,7 @@ I am a DPhil candidate in Computer Science at the
 {style="text-align: justify;"}
 
 Drawing from my multi-disciplinary background, my work integrates machine learning, HCI, linguistics, philosophy, cognitive science, behavioural psychology, and the social sciences. Thereby, I contribute to responsible AI development in ways that are at once critical, practical, and analytically rigorous.
+{style="text-align: justify;"} 
 
 In my personal life, I am an artist and poet, passionate about learning, travelling, and encountering diverse forms of art. I care deeply about understanding people and protecting the environment.
 {style="text-align: justify;"} 
