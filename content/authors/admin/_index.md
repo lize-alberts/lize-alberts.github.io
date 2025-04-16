@@ -23,8 +23,6 @@ role: Doctoral Candidate | Research Fellow
 organizations:
   - name: University of Oxford
     url: https://www.cs.ox.ac.uk/people/lize.alberts/
-  - name: Leverhulme CFI
-    url: https://www.lcfi.ac.uk/
   - name: Stellenbosch University
     url: https://www0.sun.ac.za/philosophy/centre-for-applied-ethics/unit-for-the-ethics-of-technology/unit-for-the-ethics-of-technology-staff-2/ 
 
