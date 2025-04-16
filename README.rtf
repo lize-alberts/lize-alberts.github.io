@@ -1,0 +1,112 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2820
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fmodern\fcharset0 CourierNewPS-BoldMT;\f1\fnil\fcharset0 Menlo-Regular;\f2\fmodern\fcharset0 CourierNewPSMT;
+\f3\fnil\fcharset0 .AppleSystemUIFontMonospaced-Semibold;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red0\green0\blue0;\red0\green0\blue0;
+\red42\green44\blue51;\red42\green44\blue51;\red40\green42\blue50;\red255\green255\blue255;\red46\green77\blue164;
+\red244\green245\blue247;\red49\green47\blue65;\red233\green234\blue240;\red121\green45\blue165;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\csgray\c0;\cssrgb\c0\c0\c0\c84706;
+\cssrgb\c21961\c22745\c25882;\cssrgb\c21961\c22745\c25882;\cssrgb\c20784\c21961\c25490;\cssrgb\c100000\c100000\c100000;\cssrgb\c23529\c38824\c70196;
+\cssrgb\c96471\c96863\c97647;\cssrgb\c25098\c24706\c32549;\cssrgb\c92941\c93333\c95294;\cssrgb\c55294\c27451\c70588;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\b\fs26 \cf0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 - Install VS code, connect to GitHub\
+\
+- Config GitHub\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f1\b0\fs22 \cf3 \kerning1\expnd0\expndtw0 \CocoaLigature0 \outl0\strokewidth0  git config --global user.name \'93lize-alberts\'94\
+ git config --global user.email alberts3217@gmail.com
+\f0\b\fs26 \cf0 \expnd0\expndtw0\kerning0
+\CocoaLigature1 \outl0\strokewidth0 \strokec2 \
+\pard\pardeftab720\partightenfactor0
+\cf0 \
+\pard\pardeftab720\partightenfactor0
+\cf0 \strokec2 - Install Homebrew
+\f2\b0 \strokec2 \
+\pard\pardeftab720\qc\partightenfactor0
+\cf4 \strokec4 \
+\pard\pardeftab720\partightenfactor0
+\cf5 \strokec5 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\
+\pard\pardeftab720\partightenfactor0
+\cf0 \strokec2 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf0 \strokec2 - Verify that Homebrew installed correctly:
+\f2\b0 \
+\pard\pardeftab720\qc\partightenfactor0
+\cf4 \strokec4 \
+\pard\pardeftab720\partightenfactor0
+\cf5 \strokec5 brew --version\
+\
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf0 \strokec2 - Update Homebrew to make sure you have the latest packages:\
+\pard\pardeftab720\qc\partightenfactor0
+
+\f2\b0 \cf4 \strokec4 \
+\pard\pardeftab720\partightenfactor0
+\cf5 \strokec5 brew update\
+\pard\pardeftab720\partightenfactor0
+\cf0 \strokec2 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf0 \strokec2 - Clone your repository
+\f2\b0 \
+\pard\pardeftab720\qc\partightenfactor0
+\cf4 \strokec4 \
+\pard\pardeftab720\partightenfactor0
+\cf5 \strokec5 git clone https://github.com/lize-alberts/lize-alberts.github.io\
+\pard\pardeftab720\partightenfactor0
+\cf0 \strokec2 \
+
+\f0\b - Navigate to your repository folder
+\f2\b0 \
+\pard\pardeftab720\qc\partightenfactor0
+\cf4 \strokec4 \
+\pard\pardeftab720\partightenfactor0
+\cf5 \strokec5 cd \cf6 \outl0\strokewidth0 lize-alberts.github.io\cf0 \outl0\strokewidth0 \strokec2 \
+\pard\pardeftab720\partightenfactor0
+\cf0 \strokec2 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf7 \cb8 \strokec7 - Install Hugo and its dependencies (optional?):
+\f2\b0 \
+\AppleTypeServices\AppleTypeServicesF65539 \cb1 \
+\AppleTypeServices \cf9 \cb10 \strokec9 brew\cf11 \strokec11  \cf9 \strokec9 install\cf11 \strokec11  \cf9 \strokec9 git\cf11 \strokec11  \cf9 \strokec9 golang\cf11 \strokec11  \cf9 \strokec9 hugo\cf11 \strokec11  \cf9 \strokec9 node\cf11 \cb1 \strokec11 \
+\pard\pardeftab720\qc\partightenfactor0
+\cf4 \cb7 \strokec4 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf7 \cb8 \strokec7 - Open the hidden\'a0
+\f3 \cb12 ~/.zshrc
+\f0 \cb8 \'a0(or\'a0
+\f3 \cb12 ~/.bashrc
+\f0 \cb8 ) file in a text editor, add the following line, and restart your Terminal app so that Hugo can find the location of its Go dependency.
+\f2\b0 \
+\AppleTypeServices\AppleTypeServicesF65539 \cb1 \
+\pard\pardeftab720\partightenfactor0
+\AppleTypeServices \cf13 \cb10 \strokec13 export\cf11 \strokec11  \cf9 \strokec9 PATH\cf13 \strokec13 =\cf9 \strokec9 $PATH:/usr/local/go/bin\cf11 \cb1 \strokec11 \
+\
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf11 - Uninstall that hugo (lol)
+\f2\b0 \
+\
+
+\f0\b - Install correct hugo version:
+\f2\b0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf3 \kerning1\expnd0\expndtw0 \CocoaLigature0 \outl0\strokewidth0 \
+brew install hugo.rb\
+\
+
+\f0\b - Run locally to check:
+\f2\b0 \
+\
+hugo server -D\
+\
+}
