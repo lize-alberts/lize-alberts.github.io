@@ -253,7 +253,7 @@ Or use the `warning` callout type so your readers don&#39;t miss critical detail
       <link>http://localhost:1313/blog/hi/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/hi/</guid>
-      <description>&lt;p&gt;I am the daily supervisor of a PhD project integrating a knowledge graph as user &amp;lsquo;mental model&amp;rsquo; into a large language model (LLM) based dialogue agent to effectively personalise behaviour change support. This project is funded by the 
+      <description>&lt;p&gt;I supervise a PhD project integrating a knowledge graph / model of a specific user into an LLM-based dialogue agent to effectively personalise behaviour change support. This project is funded by the 
 .&lt;/p&gt;
 &lt;h2 id=&#34;timeline&#34;&gt;Timeline&lt;/h2&gt;
 &lt;p&gt;Sept 2025 - Sept 2029&lt;/p&gt;
@@ -646,7 +646,7 @@ Demo:
 
 
 
-&lt;div id=&#34;chart-798154632&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-574612983&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     async function fetchChartJSON() {
@@ -664,7 +664,7 @@ Demo:
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-798154632&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-574612983&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

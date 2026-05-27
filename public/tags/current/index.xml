@@ -17,7 +17,7 @@
       <link>http://localhost:1313/blog/niaa/</link>
       <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/niaa/</guid>
-      <description>&lt;p&gt;Awarded &lt;a href = &#39;https://networkinstitute.org/funding/academy-assistants/&#39; target = &#39;_blank&#39;&gt;NIAA&lt;/a&gt; grant to investigate misalignments between user preferences regarding their online behaviour and the reality, and between users&amp;rsquo; self-perception vs how algorithms perceive them.&lt;/p&gt;
+      <description>&lt;p&gt;Awarded &lt;a href = &#39;https://networkinstitute.org/funding/academy-assistants/&#39; target = &#39;_blank&#39;&gt;NIAA&lt;/a&gt; grant to investigate misalignments between user preferences regarding their online behaviour and the reality, and between users&amp;rsquo; self-perception vs how algorithms perceive them. I am co-supervising two student academic assistants, one from STEM and one from the Humanities.&lt;/p&gt;
 &lt;h2 id=&#34;timeline&#34;&gt;Timeline&lt;/h2&gt;
 &lt;p&gt;Oct 2025 - Apr 2026&lt;/p&gt;
 &lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
@@ -25,8 +25,8 @@
   &lt;!-- &lt;li&gt;&lt;b&gt;Dr. Lize Alberts&lt;/b&gt;, AI &amp; Behaviour, Dept. Computer Science, VU Amsterdam&lt;/li&gt; --&gt;
   &lt;li&gt;&lt;a href = &#39;https://research.vu.nl/en/persons/marcos-oliveira&#39; target = &#39;_blank&#39;&gt;Dr. Marcos Oliveira&lt;/a&gt; (co-supervisor), AI &amp; Behaviour, Dept. Computer Science, VU Amsterdam&lt;/li&gt;
   &lt;li&gt;&lt;a href = &#39;https://research.vu.nl/en/persons/tim-groot-kormelink&#39; target = &#39;_blank&#39;&gt;Dr. Tim Groot Kormelink&lt;/a&gt; (co-supervisor), Dept. Journalism Studies, VU Amsterdam&lt;/li&gt;
-  &lt;li&gt;Aalhad Patwardhan (student assistant), Dept. Computer Science, VU Amsterdam&lt;/li&gt;
-  &lt;li&gt;Roos van der Molen (student assistant), Dept. Journalism Studies, VU Amsterdam&lt;/li&gt;
+  &lt;li&gt;Aalhad Patwardhan (student assistant)&lt;/li&gt;
+  &lt;li&gt;Roos van der Molen (student assistant)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
 &lt;p&gt;Digital platforms have reshaped how we spend our time and attention. Although technologies increasingly mediate all aspects of human life, there are often subtle but significant misalignments between what users want, what algorithms can infer about users and their needs, and what platforms are designed to promote. These misalignments undermine users’ autonomy over their behaviour, and may profoundly affect their wellbeing and sense of identity over time.&lt;/p&gt;
@@ -148,16 +148,16 @@ Or use the `warning` callout type so your readers don&#39;t miss critical detail
       <link>http://localhost:1313/blog/hi/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/hi/</guid>
-      <description>&lt;p&gt;Integrating a knowledge graph as user &amp;lsquo;mental model&amp;rsquo; into a large language model (LLM) based dialogue agent to effectively personalise behaviour change support. This project is funded by the 
+      <description>&lt;p&gt;I supervise a PhD project integrating a knowledge graph / model of a specific user into an LLM-based dialogue agent to effectively personalise behaviour change support. This project is funded by the 
 .&lt;/p&gt;
 &lt;h2 id=&#34;timeline&#34;&gt;Timeline&lt;/h2&gt;
 &lt;p&gt;Sept 2025 - Sept 2029&lt;/p&gt;
 &lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
 &lt;ul&gt;
   &lt;!-- &lt;li&gt;&lt;b&gt;Dr. Lize Alberts&lt;/b&gt;, AI &amp; Behaviour, Dept. Computer Science, VU Amsterdam&lt;/li&gt; --&gt;
-  &lt;li&gt;&lt;a href = &#39;https://research.vu.nl/en/persons/marcos-oliveira&#39; target = &#39;_blank&#39;&gt;Dr. Charlotte Gerritsen&lt;/a&gt;, AI &amp; Behaviour, Dept. Computer Science, VU Amsterdam&lt;/li&gt;
-  &lt;li&gt;&lt;a href = &#39;https://research.vu.nl/en/persons/tim-groot-kormelink&#39; target = &#39;_blank&#39;&gt;Dr. Catharine Oertel Bierbacht&lt;/a&gt;, Dept. Computer Science, TU Delft&lt;/li&gt;
-  &lt;li&gt;Ilke Asal, AI &amp; Behaviour, Dept. Computer Science, VU Amsterdam&lt;/li&gt;
+  &lt;li&gt;Ilke Asal (PhD student), AI &amp; Behaviour, Dept. Computer Science, VU Amsterdam&lt;/li&gt;
+  &lt;li&gt;&lt;a href = &#39;https://research.vu.nl/en/persons/marcos-oliveira&#39; target = &#39;_blank&#39;&gt;Dr. Charlotte Gerritsen&lt;/a&gt; (co-supervisor), AI &amp; Behaviour, Dept. Computer Science, VU Amsterdam&lt;/li&gt;
+  &lt;li&gt;&lt;a href = &#39;https://research.vu.nl/en/persons/tim-groot-kormelink&#39; target = &#39;_blank&#39;&gt;Dr. Catharine Oertel Bierbacht&lt;/a&gt; (co-supervisor), Dept. Computer Science, TU Delft&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!-- 
 ## Project Summary
@@ -541,7 +541,7 @@ Demo:
 
 
 
-&lt;div id=&#34;chart-513924876&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-574612983&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     async function fetchChartJSON() {
@@ -559,7 +559,7 @@ Demo:
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-513924876&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-574612983&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
