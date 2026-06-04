@@ -68,16 +68,54 @@ sections:
       view: article-grid
       columns: 3
   - block: markdown 
+    id: research
+    content:
+      title: 'Research'
+      subtitle: ''
+      text: |-
+        <div style="max-width: 680px; margin: 0 auto; font-size: 1.2rem;">
+
+        Lize's core research focus is person-centred human-AI interaction design, originally developed in her doctoral thesis. More than minimising ethical violations or enhancing usability, this approach - inspired by person-centred care in biomedical ethics - aims to treat individuals as whole persons with complex, evolving needs and long-term goals, and asks how AI systems can be designed to genuinely support those goals while preserving and strengthening human agency.
+
+        Her current work spans three connected areas: personalising LLM-based dialogue agents for behavioural support; the design of behaviour change technologies that foster autonomous, lasting motivation rather than engagement-driven dependency; and the implications of generative AI writing tools for academic skill development. A consistent concern is how to support users agency and integration in how they spend their time and attention.
+        </div>
+  - block: markdown 
+    id: teaching
+    content:
+      title: 'Teaching'
+      subtitle: ''
+      text: |-
+  
+        <div style="max-width: 680px; margin: 0 auto; font-size: 1.2rem;">
+        <p>Lize co-designed and coordinates three courses in the VU's BSc Artificial Intelligence programme.</p>
+        </div>
+
+        <div class="course">
+        <div style="max-width: 680px; margin: 0 auto; font-size: 1.2rem;">
+          <p><b>Modelling Human Behaviour</b> brings together perspectives from cognitive science, behavioural psychology, social network analysis, and computational modelling to give students a interdisciplinary foundation for understanding and modelling human behaviour. It covers the full model development cycle — from the theoretical and ethical frameworks that underpin why and how we model behaviour, to practical implementation across multiple tools and methods, including agent-based modelling in NetLogo, social network analysis in Python, and behavioural design on digital platforms. Students engage critically with the strengths, limitations, and risks of contemporary approaches to predicting and influencing behaviour, and consider the implications of applying these in AI and computing systems.</p>
+        </div>
+
+        <div class="course">
+        <div style="max-width: 680px; margin: 0 auto; font-size: 1.2rem;">
+          <p><b>Research Design for AI</b> guides students through the full research cycle: formulating research questions, conducting literature reviews, selecting appropriate methodologies, handling data ethically, and communicating findings clearly and critically. The course runs alongside the BSc AI Project, supporting students at each milestone of their thesis work.</p>
+        </div>
+
+        <div class="course">
+        <div style="max-width: 680px; margin: 0 auto; font-size: 1.2rem;">
+          <p><b>Project Socially Aware Computing</b> is a project-based course in which students conduct independent research using agent-based simulation in NetLogo to investigate a social phenomenon of their choosing — covering topics such as cooperation, negotiation, polarisation, and competition. Students work through the full research process, from conceptualisation and modelling to experimentation, analysis, and written and verbal reporting.</p>
+        </div>
+  
+  
+  - block: markdown 
     id: vision
     content:
       title: 'Mission Statement'
       subtitle: ''
       text: |-
-        A primary concern of my research is individual empowerment; designing technologies to help people achieve their goals effectively, while ensuring designers treat people (and their unique needs and capacities) with the respect they deserve. 
-        
-        My research approach is human-centred in that it always starts with identifying specific problems from users' own perspectives, and trying to find the most effective and responsible ways to address them, rather than starting with a tool and trying to find ways to sell or utilise it. I am constantly seeking to challenge my existing views and assumptions by reading broadly and learning new techniques to find the most appropriate and ethical routes to addressing the issues I care about. My aim is to maximise the benefits of AI and digitisation while minimising unecessary technological dependence and unintended risks. 
-        
-        My research integrates psychological theory and critical, big-picture thinking with domain-specific empirical research and user-centred interaction design. Informed by my social scientific background and upbringing in a deeply unequal developing country, critically assessing how technologies impacts society and basic human rights is another central focus in my work. 
+        <div style="max-width: 680px; margin: 0 auto; font-size: 1.2rem;">
+        My research approach is human-centred in that it starts with identifying specific problems from users' own perspectives, before trying to find the most effective and responsible ways to address them, rather than starting with a tool and trying to find ways to utilise it. I am constantly seeking to challenge my existing views and assumptions by reading broadly and learning new techniques to find the most appropriate and ethical routes to addressing the issues I care about. My aim is to maximise the benefits of AI and digitisation while minimising unnecessary technological dependence and unintended risks. To do so, I integrate psychological theory and critical, big-picture thinking with mixed methods user studies, and theory-driven interaction design. 
+        </div>
+
 
   
         
