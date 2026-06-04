@@ -92,17 +92,17 @@ sections:
 
         <div class="course">
         <div style="max-width: 680px; margin: 0 auto; font-size: 1.2rem;">
-          <p><b>Modelling Human Behaviour</b> brings together perspectives from cognitive science, behavioural psychology, social network analysis, and computational modelling to give students a interdisciplinary foundation for understanding and modelling human behaviour. It covers the full model development cycle — from the theoretical and ethical frameworks that underpin why and how we model behaviour, to practical implementation across multiple tools and methods, including agent-based modelling in NetLogo, social network analysis in Python, and behavioural design on digital platforms. Students engage critically with the strengths, limitations, and risks of contemporary approaches to predicting and influencing behaviour, and consider the implications of applying these in AI and computing systems.</p>
+          <p><b>Modelling Human Behaviour</b> integrates perspectives from cognitive science, behavioural psychology, social network analysis, and computational modelling to give students a strong interdisciplinary foundation for understanding and modelling human behaviour. It covers the full model development pipeline - from the theoretical and ethical frameworks that underpin why and how we model behaviour, to practical implementation across multiple modelling tools and methods, including agent-based modelling in NetLogo, social network analysis in Python, and behavioural design principles for digital platforms. Students engage critically with the strengths, limitations, and risks of contemporary approaches to predicting and influencing behaviour, and consider the implications of applying these in AI and computing systems.</p>
         </div>
 
         <div class="course">
         <div style="max-width: 680px; margin: 0 auto; font-size: 1.2rem;">
-          <p><b>Research Design for AI</b> guides students through the full research cycle: formulating research questions, conducting literature reviews, selecting appropriate methodologies, handling data ethically, and communicating findings clearly and critically. The course runs alongside the BSc AI Project, supporting students at each milestone of their thesis work.</p>
+          <p><b>Research Design for AI</b> guides students through the full research cycle of their final thesis project: formulating research questions, conducting literature reviews, selecting appropriate methodologies, handling data ethically, and communicating findings clearly and critically. The course runs alongside the BSc AI Project, supporting students with the timely and succesful completion of each thesis milestone.</p>
         </div>
 
         <div class="course">
         <div style="max-width: 680px; margin: 0 auto; font-size: 1.2rem;">
-          <p><b>Project Socially Aware Computing</b> is a project-based course in which students conduct independent research using agent-based simulation in NetLogo to investigate a social phenomenon of their choosing — covering topics such as cooperation, negotiation, polarisation, and competition. Students work through the full research process, from conceptualisation and modelling to experimentation, analysis, and written and verbal reporting.</p>
+          <p><b>Project Socially Aware Computing</b> is a project-based course in which students conduct independent research to research, build and analyse an agent-based simulation of a social phenomenon involving interpersonal interaction.</p>
         </div>
   
   
