@@ -69,7 +69,7 @@ education:
     button:
       text: 'See DPhil Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: M.A. (Thesis) Philosophy | Cognitive & Computational Linguistics
+  - area: M.A. Philosophy | Cognitive & Computational Linguistics
     institution: Stellenbosch University
     date_start: 2020-01-14
     date_end: 2020-11-15
@@ -80,7 +80,7 @@ education:
     button:
       text: 'See Masters Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: B.A. (Honours) Philosophy
+  - area: B.A. (Hons) Philosophy
     institution: Stellenbosch University, University of Bristol
     date_start: 2009-09-01
     date_end: 2019-03-15
