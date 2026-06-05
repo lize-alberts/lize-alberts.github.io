@@ -102,7 +102,7 @@ sections:
 
         <div class="course">
         <div style="max-width: 680px; margin: 0 auto; font-size: 1.2rem;">
-          <p><b>Project Socially Aware Computing</b> is a project-based course in which students conduct independent research to research, build and analyse an agent-based simulation of a social phenomenon involving interpersonal interaction.</p>
+          <p><b>Project Socially Aware Computing</b> is a project-based course in which students conduct independent research to build, analyse, and critically report on an agent-based simulation of phenomenon involving social interaction in the NetLogo environment.</p>
         </div>
   
   
