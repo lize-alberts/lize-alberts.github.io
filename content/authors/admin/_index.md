@@ -250,7 +250,7 @@ She works in the <a href="https://ai-behaviour.nl/">AI & Behaviour</a> lab in th
 
 Lize has a unique interdisciplinary background, having published and taught across human-centred AI, computational linguistics, behavioural design, philosophy, social anthropology, and cognitive science. She obtained her DPhil in Computer Science from the University of Oxford, focusing on [the ethics of human-AI social interaction](https://ora.ox.ac.uk/objects/uuid:f87bbd90-408f-4470-bd75-c94e73650026). Her master's focused on supporting [multi-modal grounded language learning in AI](https://arxiv.org/pdf/2206.14672).
 
-During her doctorate, Lize worked at Google as a student researcher on [contextualising the alignment of social AI agents](https://arxiv.org/abs/2401.09082), laying the groundwork for the field now termed [socioaffective alignment](https://www.nature.com/articles/s41599-025-04532-5). 
+During her doctorate, Lize worked at Google as a student researcher on [contextualising the alignment of social AI agents](https://arxiv.org/abs/2401.09082), laying the groundwork for the field now termed [socioaffective alignment](https://www.nature.com/articles/s41599-025-04532-5), and contributed to a Google Deepmind paper on [the Ethics of Advanced AI Assistants](https://ui.adsabs.harvard.edu/abs/2024arXiv240416244G/abstract).
 
 More information about her research can be found on her CV, [Google Scholar](https://scholar.google.com/citations?hl=en&user=AeNBSEYAAAAJ#), and below.
 
