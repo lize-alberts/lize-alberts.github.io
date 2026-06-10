@@ -244,7 +244,7 @@ education:
 ---
 
 
-Lize Alberts is an Assistant Professor at the Vrije Universiteit Amsterdam whose research centres on building AI systems that understand users’ complex needs and long-term goals, and support them in ways that foster autonomy, integration, and enduring self-determination.
+Lize Alberts is an Assistant Professor at the Vrije Universiteit Amsterdam. Her research centres on building AI systems that understand users’ complex sets of needs and long-term goals and support them in ways that foster autonomy, integration, and enduring self-determination.
 
 She works in the <a href="https://ai-behaviour.nl/">AI & Behaviour</a> lab in the Department of Computer Science, and is affiliated with the Netherlands' [Hybrid Intelligence Centre](https://www.hybrid-intelligence-centre.nl/). She holds a research associate position at the [Unit for the Ethics of Technology](https://www.su.ac.za/en/faculty/arts/centre-for-applied-ethics/technology-ethics/unit-ethics-technology-people) at Stellenbosch University, and is associate editor of the [Cambridge University Press Elements book series on AI Ethics & Society](https://www.cambridge.org/core/publications/elements/elements-in-ai-ethics-and-society), in affiliation with the Leverhulme Centre for the Future of Intelligence. 
 
