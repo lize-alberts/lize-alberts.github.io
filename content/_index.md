@@ -113,7 +113,7 @@ sections:
       subtitle: ''
       text: |-
         <div style="max-width: 680px; margin: 0 auto; font-size: 1.2rem;">
-        My research approach is human-centred in that it starts with identifying specific problems from users' own perspectives, before trying to find the most effective and responsible ways to address them, rather than starting with a tool and trying to find ways to utilise it. I am constantly seeking to challenge my existing views and assumptions by reading broadly and learning new techniques to find the most appropriate and ethical routes to addressing the issues I care about. My aim is to maximise the benefits of AI and digitisation while minimising unnecessary technological dependence and unintended risks. To do so, I integrate psychological theory and critical, big-picture thinking with mixed methods user studies, and theory-driven interaction design. 
+        My research approach is human-centred in that it starts with identifying specific problems from users' own perspectives, before trying to find the most effective and responsible ways to address them - rather than starting with a tool and trying to find ways to utilise it. I am constantly seeking to challenge my existing views and assumptions by reading broadly and learning new techniques to find the most appropriate routes to answering my research questions. My aim is to maximise the benefits of AI and digitisation while minimising unnecessary technological dependence and risks to individuals and society. To do so, I integrate psychological theory and critical, big-picture thinking with mixed-methods user studies, and theory-driven design solutions. 
         </div>
 
 
