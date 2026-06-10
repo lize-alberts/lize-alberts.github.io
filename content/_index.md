@@ -87,7 +87,7 @@ sections:
       text: |-
   
         <div style="max-width: 680px; margin: 0 auto; font-size: 1.2rem;">
-        <p>Lize co-designed and coordinates three courses in the VU's BSc Artificial Intelligence programme.</p>
+        <p>Lize co-designed and coordinates three courses of the VU's BSc Artificial Intelligence programme.</p>
         </div>
 
         <div class="course">
